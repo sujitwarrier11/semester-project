@@ -1,6 +1,6 @@
 # IITB Semester Project
 
-> Semester project.
+> Programming in Machine Learning (PML) Semester project.
 
 ---
 
