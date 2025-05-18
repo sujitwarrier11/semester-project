@@ -1,0 +1,3477 @@
+Cluster 0: 423 texts
+Cluster 1: 330 texts
+Cluster 2: 621 texts
+Cluster 3: 105 texts
+Cluster 4: 21 texts
+
+--- SAMPLE TEXTS PER CLUSTER ---
+
+
+=== CLUSTER 0 SAMPLE TEXTS ===
+
+1. 
+You can get a *little* UV by putting a heavy UV filter (deep purple) in
+front of an ordinary flashl...
+
+2. Distribution: world
+NNTP-Posting-Host: kelvin.jpl.nasa.gov
+News-Software: VAX/VMS VNEWS 1.41    
+
+In...
+
+3. Nntp-Posting-Host: 144.124.112.30
+
+
+In article <1993Apr3.200529.2206@galaxy.gov.bc.ca> bclarke@galax...
+
+4. 
+Charles Parr, on the Tue, 20 Apr 93 21:25:10 GMT wibbled:
+: In article <1993Apr19.141959.4057@bnr.c...
+
+5. Reply-To: an030@cleveland.Freenet.Edu (Broward Horne)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a pr...
+
+6. 
+In article <15413@optilink.COM> cramer@optilink.COM (Clayton Cramer) writes:
+
+>What they broke in t...
+
+7. 
+In article <1qmtl1$71r@gondor.sdsu.edu> cosc0000@ucssun1.sdsu.edu (Riyadh Al-ha
+jmoosa) writes:
+>ka...
+
+8. 
+In <1993Apr23.124759.1@fnalf.fnal.gov> Bill Higgins-- Beam Jockey writes:
+>In article <19930422.121...
+
+9. From: mdennie@xerox.com (Matt Dennie)
+Subject: Re: Flashing anyone?
+Keywords: flashing
+Organization:...
+
+10. NNTP-Posting-Host: carson.u.washington.edu
+
+In article <1993Apr19.231050.2196@Rapnet.Sanders.Lockhee...
+
+11. NNTP-Posting-Host: access.digex.net
+
+In article <C50zxA.1K9@zoo.toronto.edu> henry@zoo.toronto.edu (...
+
+12. Reply-To: ch981@cleveland.Freenet.Edu (Tony Alicea)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a prev...
+
+13. 
+From: payne@crl.dec.com (Andrew Payne)
+Message-ID: <1993Apr20.004418.11548@crl.dec.com>
+Organizatio...
+
+14. 
+In article <philC5HsII.GFt@netcom.com> phil@netcom.com (Phil Ronzone) writes:
+
+>In article <1993Apr...
+
+15. 
+
+In article <1993Apr19.154020.24818@i88.isc.com>, jeq@lachman.com (Jonathan E. Quist) writes:
+|> In...
+
+16. 
+In article <1993Apr14.234835.1@cua.edu> 84wendel@cua.edu writes:
+>Has anyone ever heard of a rider ...
+
+17. Nntp-Posting-Host: thor.isc-br.com
+
+In article <SLAGLE.93Apr15000157@sgi417.msd.lmsc.lockheed.com> s...
+
+18. 
+I would like to find out about space engineering employment and educational
+opportunities in the Tu...
+
+19. Distribution: sci
+	<1r9de3INNjkv@gap.caltech.edu>
+NNTP-Posting-Host: topaz.ucsc.edu
+In-reply-to: jaf...
+
+20. In-reply-to: prb@access.digex.com (Pat)
+
+In article <1r2aii$ivs@access.digex.net>, prb@access (Pat) ...
+
+21. Distribution: world
+NNTP-Posting-Host: larc.sdsu.edu
+
+Fellow Info-junkies,
+  I have an extra CCI #27...
+
+22. 
+David Karr, on the Tue, 20 Apr 1993 01:01:01 GMT wibbled:
+: In article <C5qtvL.M73@dartvax.dartmout...
+
+23. NNTP-Posting-Host: lloyd.caltech.edu
+
+kevin@rotag.mi.org (Kevin Darcy) writes:
+
+>In article <1993Apr...
+
+24. 
+Phill Hallam-Baker (hallam@zeus02.desy.de) writes:
+>gld@cunixb.cc.columbia.edu (Gary L Dare) writes...
+
+25. 
+The Apollo astronauts also trained at (in) Meteor Crater in the Flagstaff
+area (Arizona).  There is...
+
+26. 
+In article <C5JoBH.7zt@apollo.hp.com> goykhman@apollo.hp.com (Red Herring) writ
+es:
+>In article <19...
+
+27. Nntp-Posting-Host: goyt.csc.liv.ac.uk
+
+In sci.electronics timd@fenian.dell.com writes:
+
+>Anyone know...
+
+28. Nntp-Posting-Host: b329-gator-3.pica.army.mil
+
+In article <31MAR199308594057@erich.triumf.ca>, ivan@...
+
+29. 
+In article <C5nAvn.F3p@murdoch.acc.Virginia.EDU>, gsh7w@fermi.clas.Virginia.EDU (Greg Hennessy) wri...
+
+30. 
+nielsmm@imv.aau.dk (Niels Mikkel Michelsen) writes:
+
+>Did I do the right thing?
+
+Denmark, eh?  Shou...
+
+31. 
+|> 
+|> So, Take you own advice and wuit you whining about
+|> flames.
+|> 
+
+No brains and he can't sp...
+
+32. Reply-To: ch981@cleveland.Freenet.Edu (Tony Alicea)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a prev...
+
+33. Distribution: sci
+NNTP-Posting-Host: sandman.caltech.edu
+
+In a recent article jdnicoll@prism.ccs.uwo...
+
+34. 
+In article <afgE02Wb3dVu01@JUTS.ccc.amdahl.com>,
+ dws30@p1ps110cd.amdahl.com (David Sharpe) writes:...
+
+35. 
+boyd@turtle.fisher.com writes:
+
+> In article <ws0s2B1w165w@keys.lonestar.org>, cwinemil@keys.lonest...
+
+36. 
+In <1993Apr5.170349.10700@ringer.cs.utsa.edu> sbooth@lonestar.utsa.edu (Simon E. Booth) writes:
+
+>I...
+
+37. Distribution: world
+NNTP-Posting-Host: macadam.mpce.mq.edu.au
+Originator: davidb@macadam.mpce.mq.edu...
+
+38. Reply-To: ch981@cleveland.Freenet.Edu (Tony Alicea)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a prev...
+
+39. 
+In article <1993Apr15.071814.27960@wam.umd.edu>, judi@wam.umd.edu (Jay T Stein -- objectively subje...
+
+40. 
+Jonathan E. Quist, on the Thu, 15 Apr 1993 14:26:42 GMT wibbled:
+: In article <txd.734810267@Able.M...
+
+41. 
+
+I am looking for a source for a 4 circuit Sequence flasher.
+
+Input 24 Volts AC, 8 amps
+
+Output: se...
+
+42. NNTP-Posting-Host: b64635.student.cwru.edu
+
+In article <1993Apr16.173720.19151@scic.intel.com> sbrad...
+
+43. 
+
+In article <sandvik-200493000159@sandvik-kent.apple.com>, sandvik@newton.apple.com (Kent Sandvik) ...
+
+44. Distribution: world
+NNTP-Posting-Host: fp1-dialin-6.uoregon.edu
+
+In article <JOSHUA.93Apr20190924@ba...
+
+45. 
+In article <1993Apr13.025426.22532@mnemosyne.cs.du.edu> kcochran@nyx.cs.du.edu (Keith "Justified An...
+
+46. 
+jgarland@kean.ucs.mun.ca writes:
+
+> >> Also, perihelions of Gehrels3 were:
+> >> 
+> >> April  1973  ...
+
+47. 
+In article <1993Apr2.163021.17074@linus.mitre.org> cookson@mbunix.mitre.org (Cookson) writes:
+|
+|Wa...
+
+48. 
+Archive-name: space/intro
+Last-modified: $Date: 93/04/01 14:39:10 $
+
+    FREQUENTLY ASKED QUESTIONS...
+
+49. 
+In article <20APR199301460499@utarlg.uta.edu> b645zaw@utarlg.uta.edu (stephen) writes:
+>For those w...
+
+50. 
+arf@genesis.MCS.COM (Jack Schmidling) writes:
+
+>In article <1pprtvINNctl@aludra.usc.edu> sgoldste@a...
+
+51. 
+>Norman Hamer (maven@eskimo.com) wrote:
+> What is a general rule of thumb for sobriety and cycling?...
+
+52. 
+In article <philC5n6D5.MK3@netcom.com> phil@netcom.com (Phil Ronzone) writes:
+#Tells you something ...
+
+53. 
+
+In article <C5qvJC.B4B@zoo.toronto.edu>, henry@zoo.toronto.edu (Henry
+Spencer) writes: 
+> The Nati...
+
+54. 
+In article <1r46ofINNdku@gap.caltech.edu> palmer@cco.caltech.edu (David M. Palmer) writes:
+>>orbiti...
+
+55. 
+jpw@cbis.ece.drexel.edu (Joseph Wetstein) writes:
+
+
+>Hello. I am looking for a program (or algorith...
+
+56. NNTP-Posting-Host: access.digex.net
+
+In article <1993Apr25.154449.1@aurora.alaska.edu> nsmca@aurora....
+
+57. 
+In article <1qrohrINNipe@senator-bedfellow.MIT.EDU> wdstarr@athena.mit.edu (Wil
+liam December Starr...
+
+58. 
+In article <C5Kys1.C6r@panix.com> dannyb@panix.com (Daniel Burstein) writes:
+>A short story in the ...
+
+59. 
+In article <1993Apr19.152527.23658@iscnvx.lmsc.lockheed.com> jrlaf@sgi502.msd.lmsc.lockheed.com (J....
+
+60. 
+In <dlphknob.734986640@camelot> dlphknob@camelot.bradley.edu writes:
+
+> In <1993Apr14.101241.476@mt...
+
+61. 
+In article <C5oG5H.4DE@exnet.co.uk>, sys1@exnet.co.uk (Xavier Gallagher) writes:
+> In article <1540...
+
+62. 
+In article <1993Apr20.170445.18331@ncar.ucar.edu> bean@ra.cgd.ucar.edu (Gregory Bean) writes:
+>Help...
+
+63. Nntp-Posting-Host: mahogany126
+Organization: The 1991 World Champion Minnesota Twins!
+
+
+In article <...
+
+64. NNTP-Posting-Host: calvin.sbc.com
+
+In article <mwalker-160493090617@mwalker.npd.provo.novell.com> mw...
+
+65. 
+    Hello netters:)  Does anyone out there know any FTP sites for projects,
+plans, etc of an electr...
+
+66. 
+In article <sehari.733764410@vincent1.iastate.edu>, sehari@iastate.edu (Babak Sehari) writes:
+|> In...
+
+67. 
+In article <C5qwv2.Bz0@zoo.toronto.edu> henry@zoo.toronto.edu (Henry Spencer) writes:
+>In article <...
+
+68. 
+In article <C5HFr2.CpA@ncratl.AtlantaGA.NCR.COM> mwilson@ncratl.AtlantaGA.NCR.COM (Mark Wilson) wri...
+
+69. 
+Does anyone know of an FTP site where I might find public
+domain software for the Motorola 68HC16 m...
+
+70. 
+In article <93109.211935ISSCCK@BYUVM.BITNET> ISSCCK@BYUVM.BITNET (Casper C. Knies) writes:
+>
+>Pleas...
+
+71. 
+In article <1993Apr15.222224.1@ntuvax.ntu.ac.sg> ba7116326@ntuvax.ntu.ac.sg writes:
+|hello there
+|i...
+
+72. NNTP-Posting-Host: grendal.corp.sun.com
+
+In article <1993Apr21.024036.7394@lynx.dac.northeastern.edu...
+
+73. 
+In <1pdj4bINNrtr@crcnis1.unl.edu>, e_p@unl.edu (edgar pearlstein)  wrote:
+#     Are there any place...
+
+74. 
+In article <13516@news.duke.edu>, infante@acpub.duke.edu (Andrew  Infante) writes:
+|> Well, as a fe...
+
+75. Reply-To: ch981@cleveland.Freenet.Edu (Tony Alicea)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a prev...
+
+76. Distribution: usa
+	<1993Apr5.193616.14521@cbnewsi.cb.att.com> <philC51D4F.G2J@netcom.com>
+Reply-To: ...
+
+77. Reply-To: jmann@vineland.pubs.stratus.com
+NNTP-Posting-Host: gondolin.pubs.stratus.com
+
+In article <...
+
+78. 
+In article <1993Apr14.190210.8996@megatek.com>, randy@megatek.com (Randy Davis) writes:
+> |The ride...
+
+79. 
+Keith Hanlan, on the Wed, 14 Apr 1993 19:20:14 GMT wibbled:
+: In article <1993Apr14.181352.6246@ra....
+
+80. 
+In article 25444@dsd.es.com, bgardner@pebbles.es.com (Blaine Gardner) writes:
+>In article <speedy.1...
+
+81. 
+In article <47749@sdcc12.ucsd.edu>, shopper@ucsd.edu writes:
+ 
+> Does anyone have or know where I c...
+
+82. Nntp-Posting-Host: thor.isc-br.com
+
+In article <1993Apr17.145045.12449@tijc02.uucp> pjs269@tijc02.uu...
+
+83. Nntp-Posting-Host: skndiv.dseg.ti.com
+Reply-To: pyron@skndiv.dseg.ti.com
+Organization: TI/DSEG VAX S...
+
+84. 
+In article <1993Apr21.141824.23536@cbis.ece.drexel.edu> jpw@cbis.ece.drexel.edu (Joseph Wetstein) w...
+
+85. 
+In article <C5Lp0y.FDK@news.cso.uiuc.edu> kkopp@uxh.cso.uiuc.edu (koppenhoefer kyle cramm) writes:
+...
+
+86. 
+In <C5uBn5.tz@zoo.toronto.edu> Henry Spencer writes:
+>In article <1993Apr21.134436.26140@mksol.dseg...
+
+87. Originator: lusky@sylvester.cc.utexas.edu
+
+I'm looking for a 1990-91 Kawasaki ZX-6 engine.  Just the...
+
+88. NNTP-Posting-Host: grissom.larc.nasa.gov
+
+In article <1993Apr6.092913.18724@sei.cmu.edu> rsd@sei.cmu...
+
+89. 
+In article <1pppnrINNitg@cronkite.Central.Sun.COM>,
+doc@webrider.central.sun.com (Steve Bunis) wrot...
+
+90. 
+In article <1qn4bgINN4s7@mimi.UU.NET> goltz@mimi.UU.NET (James P. Goltz) writes:
+>  Would this work...
+
+91. 
+In article <1qevbh$h7v@agate.berkeley.edu>, dzkriz@ocf.berkeley.edu (Dennis
+Kriz) wrote:
+> I'm goin...
+
+92. 
+In article <C5swox.GwI@mailer.cc.fsu.edu>, os048@xi.cs.fsu.edu () writes:
+|>  hey there,
+|>     Yea...
+
+93. NNTP-Posting-Host: larc.sdsu.edu
+
+In article <1993Apr6.203237.20841@eagle.lerc.nasa.gov>,
+fsset@bach...
+
+94. 
+In article <1993Apr14.231117.21872@pony.Ingres.COM> garrett@Ingres.COM  writes:
+>In article <philC5...
+
+95. 
+What is Pink noise and how is it used in sound experiments?
+-tony
+ wayne@uva386.schools.virginia.ed...
+
+96. NNTP-Posting-Host: earth.cs.utexas.edu
+
+In article <12739@news.duke.edu> infante@acpub.duke.edu (And...
+
+97. NNTP-Posting-Host: bhm116e-spc.engr.latech.edu
+
+In article <1993Apr20.010734.18225@megatek.com> rand...
+
+98. 
+In article <47116@sdcc12.ucsd.edu> jtozer@sdcc3.ucsd.edu (John Tozer) writes:
+>	I am looking for ad...
+
+99. Nntp-Posting-Host: skndiv.dseg.ti.com
+Reply-To: pyron@skndiv.dseg.ti.com
+Organization: TI/DSEG VAX S...
+
+100. 
+For all those who are interested and would like to discuss the popular
+Secret Life..and/or other te...
+
+101. Nntp-Posting-Host: ulkyvx.louisville.edu
+Organization: University of Louisville
+
+In article <C5nz60....
+
+102. Nntp-Posting-Host: bolero
+X-Header: IGNORE ignore Ignore IgNoRe this line
+
+rick@sjsumcs.sjsu.edu (Ri...
+
+103. 
+ranck@joesbar.cc.vt.edu (Wm. L. Ranck) writes:
+>Nick Pettefar (npet@bnr.ca) wrote:
+>: English cars:...
+
+104. Reply-To: ch981@cleveland.Freenet.Edu (Tony Alicea)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a prev...
+
+105. NNTP-Posting-Host: apple.com
+
+blaisec@sr.hp.com (Blaise Cirelli) writes:
+
+>So the question I have is...
+
+106. Nntp-Posting-Host: 144.124.112.30
+
+
+In article <1993Mar31.194202.7809@cs.brown.edu> jdk@cs.brown.edu...
+
+107. 
+In article <1993Apr20.102756.1709@mala.bc.ca> wagner@mala.bc.ca (TOM WAGNER, Wizzard of old Audio/V...
+
+108. 
+In article <1993Apr15.215428.11116@research.nj.nec.com> behanna@syl.nj.nec.com (Chris BeHanna) writ...
+
+109. Reply-To: an030@cleveland.Freenet.Edu (Broward Horne)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a pr...
+
+110. 
+
+In article <f2dutxH@quack.kfu.com>, pharvey@quack.kfu.com (Paul Harvey) writes:
+|> In article <199...
+
+111. Distribution: world
+NNTP-Posting-Host: homer.cs.berkeley.edu
+
+Paraphrase of initial post:
+
+	Can I fi...
+
+112. NNTP-Posting-Host: fnalf.fnal.gov
+
+In article <19930422.121236.246@almaden.ibm.com>, Wingert@vnet.IB...
+
+113. 
+In article <C5LA55.Bwq@murdoch.acc.Virginia.EDU> gsh7w@fermi.clas.Virginia.EDU
+(Greg Hennessy) writ...
+
+114. NNTP-Posting-Host: access.digex.net
+
+In article <19930419.062802.166@almaden.ibm.com> nicho@vnet.ibm...
+
+115. Nntp-Posting-Host: 144.124.112.30
+
+
+In article <Stafford-310393095530@stafford.winona.msus.edu> Staf...
+
+116. NNTP-Posting-Host: grissom.larc.nasa.gov
+
+In article <JWATERMA.93Apr14214858@jade.tufts.edu> jwaterm...
+
+117. NNTP-Posting-Host: localhost.mcs.com
+
+In article <1pprtvINNctl@aludra.usc.edu> sgoldste@aludra.usc.e...
+
+118. 
+In article <bill.047m@xpresso.UUCP> bill@xpresso.UUCP (Bill Vance) writes:
+>It has been known for q...
+
+119. 
+In <1993Apr5.195215.16833@pixel.kodak.com> dj@ekcolor.ssd.kodak.com (Dave Jones) writes:
+
+>Keith Ma...
+
+120. 
+In article <sandvik-190493200323@sandvik-kent.apple.com> sandvik@newton.apple.com (Kent Sandvik) wr...
+
+121. 
+In article <viking.733962547@ponderous.cc.iastate.edu>,
+viking@iastate.edu (Dan Sorenson) writes:
+|...
+
+122. 
+In article <kbanaian.488.735081194@bernard.pitzer.claremont.edu> kbanaian@bernard.pitzer.claremont....
+
+123. NNTP-Posting-Host: stein.u.washington.edu
+
+In article <1qsqar$n8m@usenet.INS.CWRU.Edu> ch981@clevela...
+
+124. 
+Anyone around here read this yet?
+Does Anita have a number?
+
+>>   Title: Software measurement for D...
+
+125. Organization: University of Massachusetts Lowell
+
+In article <1r1u5t$595@lm1.oryx.com>, xcpslf@oryx....
+
+126. Organization: Pitzer College
+
+In article <1993Apr17.201310.13693@midway.uchicago.edu> thf2@kimbark.u...
+
+127. 
+Reply address: mark.prado@permanet.org
+
+ > From: higgins@fnalf.fnal.gov (Bill Higgins-- Beam Jockey...
+
+128. 
+In article <1qjtr9$llb@news.ysu.edu> ak296@yfn.ysu.edu (John R. Daker) writes:
+>
+>In a previous art...
+
+129. NNTP-Posting-Host: vma.smsu.edu
+X-Newsreader: NNR/VM S_1.3.2
+
+>>In article <1993Apr15.021021.7538@go...
+
+130. 
+In article <speedy.155@engr.latech.edu> speedy@engr.latech.edu (Speedy Mercer) writes:
+|
+|This was ...
+
+131. X-Maildoor: WaflineMail 1.00r
+
+Device........ LT1839   @ IC (mA)..... 50
+V(BR)CEO (V).. 70       CCB...
+
+132. Distribution: world
+NNTP-Posting-Host: hpmvd069.nsr.hp.com
+X-Newsreader: TIN [version 1.1.2 PL7]
+
+MA...
+
+133. 
+In article <Apr.16.20.34.50.1993.6677@romulus.rutgers.edu> kaldis@romulus.rutgers.edu (Theodore A. ...
+
+134. 
+(oh boy. it's the [in]famous Phill Hallam-Baker.)
+
+In article <C5Jy07.8GK@dscomsa.desy.de> hallam@z...
+
+135. 
+The pricing of parts reminds me of something a chemist once said to me:
+
+"A gram of this dye costs ...
+
+136. Nntp-Posting-Host: bambam
+
+In article <1993Apr5.182851.23410@cbnewsj.cb.att.com> car377@cbnewsj.cb.a...
+
+137. 
+In <sandvik-170493170457@sandvik-kent.apple.com> sandvik@newton.apple.com writes:
+
+> In article <1q...
+
+138. 
+I was wondering if the FAQ files could be posted quarterly rather than monthly.  Every 28-30 days, ...
+
+139. 
+In article <1993Apr14.204821.8497@linus.mitre.org> cookson@mbunix.mitre.org (Cookson) writes:
+>In a...
+
+140. 
+mjs@sys.uea.ac.uk (Mike Sixsmith) writes:
+mjs>Well, there are just as many courses here and elsewhe...
+
+141. 
+In article <1993Apr2.154232.29527@Princeton.EDU>, glhewitt@phoenix.Princeton.EDU (Gary Livingston H...
+
+142. 
+In article <1raee7$b8s@access.digex.net> prb@access.digex.com (Pat) writes:
+>In article <23APR19931...
+
+143. 
+  The federal civil rights trial against the four LA police
+officers accused of violating Rodney Ki...
+
+144. 
+In article <C5HrxJ.ACE@unix.amherst.edu>, nrmendel@unix.amherst.edu (Nathaniel M
+endell) writes:
+>K...
+
+145. 
+In article <Clarke.5.734991574@bdrc.bd.com>, Clarke@bdrc.bd.com (Richard Clarke) writes:
+|> final t...
+
+146. Distribution: world
+Reply-To: C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON)
+NNTP-Posting-Host: ...
+
+147. 
+In article <1993Apr17.204351.2256@aber.ac.uk> cjp1@aber.ac.uk (Christopher John Powell) writes:
+
+[d...
+
+148. Reply-To: 2575brooksr@vms.csd.mu.edu
+NNTP-Posting-Host: vmsf.csd.mu.edu
+
+Hi all!
+	Quick question.  C...
+
+149. 
+In article <speedy.155@engr.latech.edu> speedy@engr.latech.edu (Speedy Mercer) writes:
+|In article ...
+
+150. NNTP-Posting-Host: b64635.student.cwru.edu
+
+In article <1993Apr17.162105.3303@scic.intel.com> sbradl...
+
+151. Reply-To: ak954@yfn.ysu.edu (Albion H. Bowers)
+NNTP-Posting-Host: yfn.ysu.edu
+
+
+In a previous articl...
+
+152. 
+cotera@woods.ulowell.edu writes:
+>           David Thibedeau (sp?), one of the cult members, said t...
+
+153. 
+In <C50FHG.MEA@ocsmd.ocs.com> mark@ocsmd.ocs.com (Mark Wilson) writes:
+
+>Yuri Villanueva (elmo@cybe...
+
+154. NNTP-Posting-Host: umcc.umcc.umich.edu
+
+In article <2671@emoryu1.cc.emory.edu> libwca@emory.edu (Bil...
+
+155. 
+In article <2500@tekgen.bv.tek.com>, davet@interceptor.cds.tek.com (Dave
+Tharp CDS) writes:
+|> I sa...
+
+156. 
+In article <1qjtmjINNq45@elroy.jpl.nasa.gov>, carlos@beowulf.Jpl.Nasa.Gov (Carlos Carrion) writes:
+...
+
+157. 
+In sci.astro, dmcaloon@tuba.calpoly.edu (David McAloon) writes:
+
+[ a nearly perfect parody  -- need...
+
+158. 
+davet@interceptor.cds.tek.com (Dave Tharp CDS) writes:
+]In article <1076@rider.UUCP> joe@rider.cact...
+
+159. 
+> In <1993Apr3.233154.7045@Princeton.EDU> lije@cognito.Princeton.EDU (Elijah  
+Millgram) writes:
+> ...
+
+160. 
+In article <sandvik-150493181533@sandvik-kent.apple.com>, 
+sandvik@newton.apple.com (Kent Sandvik) ...
+
+161. Distribution: world
+NNTP-Posting-Host: kelvin.jpl.nasa.gov
+News-Software: VAX/VMS VNEWS 1.41    
+
+In...
+
+162. 
+In article <C5sr8H.JpH@cbnewsl.cb.att.com> klink@cbnewsl.cb.att.com (steven.r.klinkner) writes:
+>Ca...
+
+163. 
+hagenjd@wfu.edu (Jeff Hagen) writes:
+
+
+>A good two-party system will bring Italy efficient, account...
+
+164. 
+In article <1993Apr15.180644.25263@ll.mit.edu> jburnside@ll.mit.edu (jamie w burnside) writes:
+>( S...
+
+165. X-Newsreader: TIN [version 1.1 PL6]
+
+Mark J. Musone (musone@acsu.buffalo.edu) wrote:
+: HI, I was won...
+
+166. 
+In article <C4y3DD.L1n@panix.com> roy@panix.com (Roy Radow) writes:
+>Anyone with any degree of sens...
+
+167. 
+In article <C5FI2H.Ew8@rice.edu>  (jcn@rice.edu) writes:
+> > I was going to try radial keratotomy, ...
+
+168. 
+Jenny Anderson (jennya@well.sf.ca.us) wrote:
+
+
+: medtronic.COM (Dale M. Skiba) entirely missed my p...
+
+169. 
+In article <1993Apr19.164842.18206@vax5.cit.cornell.edu> xlyx@vax5.cit.cornell.edu writes:
+>Is it p...
+
+170. 
+In article <1qv82l$oj2@usenet.INS.CWRU.Edu> ch981@cleveland.Freenet.Edu (Tony Alicea) writes:
+>    ...
+
+171. Distribution: usa
+NNTP-Posting-Host: cash.cs.utexas.edu
+
+In article <1993Apr15.153312.4125@research....
+
+172. 
+xcpslf@oryx.com (stephen l favor) writes:
+: : Seems to me Koresh is yet another messenger that got ...
+
+173. 
+In article <CB.93Apr5130728@tamarack13.timbuk>, cb@tamarack13.timbuk (Chris Brewster) writes:
+> Cra...
+
+174. NNTP-Posting-Host: stein.u.washington.edu
+
+In article <f1VMPxk@quack.kfu.com> pharvey@quack.kfu.com ...
+
+175. 
+In article <C4tz28.Cpp@panix.com> roy@panix.com (Roy Radow) writes:
+>In <15148@optilink.COM> walsh@...
+
+176. 
+In article <23321@mindlink.bc.ca> Sean_Oliver@mindlink.bc.ca (Sean Oliver) writes:
+>> Joseph Mich K...
+
+177. 
+In article <C5w5F8.3LC.1@cs.cmu.edu> nickh@CS.CMU.EDU (Nick Haines) writes:
+>
+>Would they buy it, g...
+
+178. 
+In article <C5Jy07.8GK@dscomsa.desy.de> hallam@zeus02.desy.de writes:
+>
+>In article <1993Apr15.0535...
+
+179. 
+In <1993Apr15.192558.3314@icomsim.com> mmanning@icomsim.com (Michael Manning) writes:
+
+>In article ...
+
+180. 	<STEINLY.93Apr20145301@topaz.ucsc.edu>
+	<1993Apr20.223807.16712@cs.rochester.edu>
+NNTP-Posting-Host...
+
+181. Distribution: world
+NNTP-Posting-Host: 128.3.254.197
+News-Software: VAX/VMS VNEWS 1.41    
+
+In artic...
+
+182. 
+In article <15407@optilink.COM> walsh@optilink.COM (Mark Walsh) writes:
+#There is a big difference ...
+
+183. 
+In article <pww-180493195323@spac-at1-59.rice.edu> pww@spacsun.rice.edu (Peter Walker) writes:
+>In ...
+
+184. 
+garrett@Ingres.COM  writes:
+
+>rn11195@medtronic.COM (Robert Nehls)             writes...
+
+>>Jason K...
+
+185. Reply-To: ch981@cleveland.Freenet.Edu (Tony Alicea)
+NNTP-Posting-Host: hela.ins.cwru.edu
+
+
+In a prev...
+
+186. 
+	Does anyone out there know of any ftp sites which deal with 
+electronics projects, plans, etc?  An...
+
+187. Distribution: world
+Reply-To: rogerc@discovery.uk.sun.com
+NNTP-Posting-Host: discovery.uk.sun.com
+
+I...
+
+188. 
+In article <1993Apr19.185326.9830@Princeton.EDU> mg@cs.princeton.edu (Michael Golan) writes:
+>The b...
+
+189. Nntp-Posting-Host: b329-gator-3.pica.army.mil
+
+In article <C5p26B.A3x@world.std.com>, artc@world.std...
+
+190. Distribution: world
+	<JOSHUA.93Apr19183833@bailey.cpac.washington.edu>
+	<Pegasus-200493113800@fp1-di...
+
+191. 
+In article <1993Apr16.121720.13017@hemlock.cray.com> rja@mahogany126.cray.com (
+Russ Anderson) writ...
+
+192. Distribution: usa
+NNTP-Posting-Host: ucssun1.sdsu.edu
+
+kaldis@romulus.rutgers.edu (Theodore A. Kaldi...
+
+193. 
+In article <13386@news.duke.edu>, infante@acpub.duke.edu (Andrew  Infante) writes:
+|> Well, it look...
+
+194. Reply-To: sysmgr@king.eng.umd.edu
+NNTP-Posting-Host: queen.eng.umd.edu
+
+In article <STEINLY.93Apr201...
+
+195. 
+Mike Sixsmith, on the 16 Apr 93 10:07:55 GMT wibbled:
+
+[ very interesting (yawn) stuff deleted, bec...
+
+196. 
+In article <15APR199303031064@reg.triumf.ca> vincent@reg.triumf.ca (pete) writes:
+>In article <C5Hw...
+
+197. Nntp-Posting-Host: b329-gator-3.pica.army.mil
+
+mcguire@cs.utexas.edu (Tommy Marcus McGuire) wrote:
+>...
+
+198. 
+In <1993Apr2.125134.3780@hemlock.cray.com> rja@mahogany126.cray.com (Ben's dad) writes:
+
+|In articl...
+
+199. 
+In article <C5IJ7H.L95@news.iastate.edu> jrbeach@iastate.edu (Jeffry R Beach) writes:
+>In article <...
+
+200. 
+alamut@netcom.com (Max Delysid (y!)) writes:
+
+> In article <1qppef$i5b@usenet.INS.CWRU.Edu> ch981@c...
+
+
+=== CLUSTER 1 SAMPLE TEXTS ===
+
+1. NNTP-Posting-Host: access.digex.net
+
+The trouble with trying to find out the truth is that Roehm and...
+
+2. 
+
+
+I understand that the new GPS boxes now have an option
+known as "differential ready".  Apparently...
+
+3. 
+In article <1993Apr16.131615.8661@desire.wright.edu>, demon@desire.wright.edu (Not a Boomer) writes...
+
+4. NNTP-Posting-Host: hairball.ecst.csuchico.edu
+In-reply-to: dan@cae.prds.cdx.mot.com's message of 05 ...
+
+5. Distribution: usa
+NNTP-Posting-Host: nw12-326-1.mit.edu
+In-reply-to: neal@magpie.linknet.com (Neal)
+...
+
+6. NNTP-Posting-Host: cs.utexas.edu
+
+II SAMUEL 24: And again the anger of the LORD was kindled against ...
+
+7. Nntp-Posting-Host: logic.clarkson.edu
+X-Newsreader: TIN [version 1.1 PL8]
+
+
+
+Hi.  I was doing resear...
+
+8. 
+swalker@uts.EDU.AU (-s87271077-s.walker-man-50-) writes:
+
+>I was wondering about those massive conc...
+
+9. 
+In article <5028@cvbnetPrime.COM>, 
+rbemben@timewarp.prime.com (Rich Bemben) writes:
+
+|> Never dill...
+
+10. 
+In article <1993Apr19.013752.22843@research.nj.nec.com>, behanna@syl.nj.nec.com (Chris BeHanna) wri...
+
+11. 
+In article <jburney.734756216@hydra.nodc.noaa.gov> jburney@hydra.nodc.noaa.gov (Jeff Burney) writes...
+
+12. 
+In article <8597@blue.cis.pitt.edu> psg+@pitt.edu (Paul S Galvanek)
+writes:
+>When I heard the lates...
+
+13. 
+In article <3HgF3B3w165w@shakala.com> dante@shakala.com (Charlie Prael) writes:
+>Doug-- Actually, i...
+
+14. 
+Several years back one of the radar detectors manufacturers, in
+defiance to Virginia's law against ...
+
+15. 
+kosinski@us.oracle.com (Kevin Osinski) writes:
+
+> I recall reading in Michael (?) Rutherford's nove...
+
+16. 
+Here is a press release from the Reserve Officers Association.
+
+ Reserve Officers Say Demographics ...
+
+17. 
+caadams@atlas.cs.upei.ca (Kenny Adams) writes:
+
+>hi,
+>	instead of using a +15vdc supply for the 406...
+
+18. NNTP-Posting-Host: labkas.lsid.hp.com
+X-Newsreader: TIN [version 1.1 PL8.10]
+
+Mark N Bricker (mnb473...
+
+19. 
+critus
+
+
+
+
+  
+
+
+20. 
+<lots of pretty good stuff about how the huge towers near most nuclear
+power plants are there to co...
+
+21. Distribution: world
+Expires: 6 May 1993 20:00:01 GMT
+NNTP-Posting-Host: mahler.cs.unc.edu
+Keywords: ...
+
+22. 
+Sterrenkundig symposium 'Compacte Objecten'
+                                             op 26 apri...
+
+23. 
+Hi.  I'm looking for software to aid a friend of mine with designing speakers.
+Does this type of so...
+
+24. 
+In article <1qmm5dINNnlg@cronkite.Central.Sun.COM>, doc@webrider.central.sun.com (Steve Bunis - Chi...
+
+25. 
+	If the  new  Kuiper belt object *is*  called 'Karla', the next
+one  should be called 'Smiley'.
+
+		...
+
+26. NNTP-Posting-Host: sgi1.wag.caltech.edu
+
+In article <37147@scicom.AlphaCDC.COM> wats@scicom.AlphaCDC...
+
+27. 
+In article <C5r60r.4ID@megatest.com>, alung@megatest.com (Aaron Lung) writes:
+> In article <C5qsBF....
+
+28. 
+In article <C4xAwp.tAK@watson.ibm.com>, margoli@watson.ibm.com (Larry Margolis) writes:
+> In <1993A...
+
+29. 
+For an upcoming project I want to use 4 Megs of DRAM configured as two 2
+Meg banks of 16 bit data. ...
+
+30. NNTP-Posting-Host: access.digex.net
+
+RE: Red, wwhite, and black, the colors of the Imperial German w...
+
+31. 
+My next project is to come up with an IF/detector module for fast -- 112
+to 250 kB/sec -- packet ra...
+
+32. 
+In article <1ppvof$92a@seven-up.East.Sun.COM> egreen@East.Sun.COM writes:
+|Bikers wave to bikers th...
+
+33. 
+In article <1993Apr5.133542.19077@porthos.cc.bellcore.com>, 
+fist@iscp.bellcore.com (Richard Pierso...
+
+34. 
+In article <1raejd$bf4@access.digex.net> prb@access.digex.com (Pat) writes:
+>what ever happened to ...
+
+35. 
+does anyone have Prez. Clinton`s e-mail address.
+thanks a lot 
+ 
+
+
+
+
+36. 
+There's also Billy Jack, The Wild One, Smokey and the Bandit
+(Where Jerry Reed runs his truck over ...
+
+37. 
+
+The following is an introduction as to who is Muhammad SAW
+as will be covered with this treatise.
+...
+
+38. 
+The Roman Catholic conservatives are coming out in the open to line
+up with Pat Robertson and his u...
+
+39. X-Mailer: TMail version 1.13
+
+In <Pegasus-130393124328@fp1-dialin-7.uoregon.edu>, Pegasus@AAA.UOrego...
+
+40. Distribution: usa
+NNTP-Posting-Host: tomato.cis.ohio-state.edu
+
+
+Hi all,
+
+I'm an assistant manager a...
+
+41. 
+To go one step further, you could write Roland Slabon, Pres. of the
+Vintage BMW Motorcycle Owners L...
+
+42. 
+jeh@cmkrnl.com writes:
+>
+>Hmmm.  How are those orange "isolated ground" outlets (often used in
+>com...
+
+43. 
+
+Reading from a Amoco Performance Products data sheet, their
+ERL-1906 resin with T40 carbon fiber r...
+
+44. 
+Phil G. Fraering writes:
+
+> Mark Brader writes:
+
+>> Thanks again.  One final question.  The name Ge...
+
+45. 
+In article <15378@optilink.com> cramer@optilink.COM (Clayton Cramer) writes:
+>
+>
+>From the Santa Ro...
+
+46. NNTP-Posting-Host: po4.andrew.cmu.edu
+
+I'm looking for a sport-cruiser - factory installed fairings ...
+
+47. NNTP-Posting-Host: alumni.caltech.edu
+
+matthew@phantom.gatech.edu (Matthew DeLuca) writes:
+
+>In arti...
+
+48. NNTP-Posting-Host: access.digex.net
+
+  C-3's bird may be flaking out and expecting to die soon.
+
+or ...
+
+49. 
+In article <6ZV82B2w165w@theporch.raider.net> gene@theporch.raider.net (Gene Wright) writes:
+
+   An...
+
+50. 
+In article <C5L2xt.IqD@zoo.toronto.edu>, henry@zoo.toronto.edu (Henry Spencer) writes:
+>In article ...
+
+51. 
+smith@phoneme.harvard.edu (Steven Smith) writes:
+>bross@sandbanks.cosc.brocku.ca (Brian Ross) write...
+
+52. X-Newsreader: TIN [version 1.1 PL8]
+
+John Elson (jelson@rcnext.cso.uiuc.edu) wrote:
+: Has anyone eve...
+
+53. 
+Yes, the Phobos mission did return some useful data including images of Phobos
+itself. The best I'v...
+
+54. 
+Narrative, narrative, narrative. . .
+
+
+
+C.B.
+
+
+55. 
+In article <ugo62B8w165w@angus.mi.org> dragon@angus.mi.org writes:
+
+>Exactly when will the hover te...
+
+56. NNTP-Posting-Host: cs.utexas.edu
+
+Ps.92:12: "The righteous shall flourish like the palm tree."
+
+Isa....
+
+57. 
+In article <1qknu0INNbhv@shelley.u.washington.edu>, > Christian:  washed in
+the blood of the lamb.
+...
+
+58. 
+	For those of you with motorcycles of the liquid-cooled persuasion,
+what brand of coolant do you us...
+
+59. 
+Suggestion: try "Exposing the New Age" by Douglas Groothuis.
+
+
+60. 
+In article <79615@cup.portal.com> Thyagi@cup.portal.com (Thyagi Morgoth NagaSiva) writes:
+
+>"To all...
+
+61. NNTP-Posting-Host: ac.wfunet.wfu.edu
+
+(NOTE: cross-posted to alt.politics.italy and talk.politics.mi...
+
+62. 
+Re: Space billboards
+
+Even easier to implement than writing messages on the Moon, once upon
+a time ...
+
+63. 
+Pete Young, on the Tue, 20 Apr 93 08:29:21 GMT wibbled:
+: Nick Pettefar (npet@bnr.ca) wrote:
+
+: : T...
+
+64. 
+In article <C5JF22.DJr@news.cso.uiuc.edu> wcd82671@uxa.cso.uiuc.edu (daniel warren c) writes:
+>Earl...
+
+65. 
+
+The article that follows was taken from the Wednesday, April 14, 1993
+issue of USA Today ("Drug Us...
+
+66. 
+I want to start a DSP project that can maniplate music in a stereo cassette. 
+Is that any chip set,...
+
+67. 
+In article <Ufk_Gqu00WBKE7cX5V@andrew.cmu.edu> Ashish Arora <ashish+@andrew.cmu.edu> writes:
+>Excer...
+
+68. 
+
+What an exciting thread (finally!)
+
+Mitra is Sanskrit for Friend, as such He started out as an ava...
+
+69. NNTP-Posting-Host: fiber-one.ai.mit.edu
+
+Hi: I'd like to know how much the foll. equipment will fetc...
+
+70. 
+
+Does anybody know if there is a mailing list or newsgroup for
+Power Systems and related areas?
+
+Th...
+
+71. Nntp-Posting-Host: marcus.its.rpi.edu
+
+I am doing a political science paper on the funding of NASA a...
+
+72. 
+The most current orbital elements from the NORAD two-line element sets are
+carried on the Celestial...
+
+73. 
+Someone was looking for these a few weeks ago - check out comp.dsp
+Mike.
+
+
+74. 
+At one time there was speculation that the first spacewalk 
+(Alexei Leonov ?) was a staged fake.
+
+H...
+
+75. 
+In article <C5I2HM.JwC@srgenprp.sr.hp.com> frankb@sad.hp.com (Frank Ball) writes:
+>Godfrey DiGiorgi...
+
+76. 
+In article <Ufk_Gqu00WBKE7cX5V@andrew.cmu.edu>, ashish+@andrew.cmu.edu
+(Ashish Arora) writes:
+|> Ex...
+
+77. NNTP-Posting-Host: ac.wfunet.wfu.edu
+
+
+Wasn't it Tricky Dick who issued stern warnings to Bush & Cli...
+
+78. 
+Archive-name: space/data
+Last-modified: $Date: 93/04/01 14:39:07 $
+
+ONLINE AND OTHER SOURCES OF IMA...
+
+79. 
+Sorry, the San Jose based Rosicrucian order is called A.M.O.R.C, 
+I don't remember for the time bei...
+
+80. 
+Sunlight shining off of the ocean.
+
+
+-- 
+Aleph null bottles of beer on the wall, Aleph null bottles...
+
+81. 
+AllTall Cool OneWhat's a good IC for RS23
+
+TC>From: rky57514@uxa.cso.uiuc.edu (Tall Cool One )
+TC>O...
+
+82. 
+UJSNYDER%MSUVX2%MEMSTVX1.BITNET@MIZZOU1.missouri.edu writes:
+>
+>There is never any mention of how m...
+
+83. 
+> Hi.  I was doing research on subliminal suggestion for a psychology
+> paper, and I read that one ...
+
+84. 
+In article <1qjn7i$d0i@sixgun.East.Sun.COM> egreen@east.sun.com writes:
+}>On a
+}>waterski bike, you...
+
+85. 
+In article <1993Apr15.200231.10206@ra.royalroads.ca>,
+mlee@post.RoyalRoads.ca (Malcolm Lee) wrote:
+...
+
+86. 
+>>|>       Excerpts from "Insight" magazine, March 15, 1993
+
+
+                       *Paranoia part...
+
+87. 
+Bill Gripp writes
+
+>>Anyway, I've often wondered what business followers of Christ would have
+>>wit...
+
+88. 
+Greetings netters,
+
+Steve writes ... <about Cobra Locks>
+
+Well I have the mother of all locks. On F...
+
+89. NNTP-Posting-Host: access.digex.net
+
+
+
+WHile we are on the subject of the shuttle software.
+
+what ev...
+
+90. 
+   I saw in the newspaper last night that Dr. Mae Jemison, the first
+black woman in space (she's a ...
+
+91. NNTP-Posting-Host: eng.sdsu.edu
+X-Newsreader: TIN [version 1.1 PL9]
+
+
+Does anyone has a table about ...
+
+92. Reply-To: hallam@zeus02.desy.de
+Organization: DESYDeutsches Elektronen Synchrotron, Experiment ZEUS ...
+
+93. 
+R.G. Keen (rg@futserv.austin.ibm.com) wrote:
+: A quick and dirty way to get higher current carrying...
+
+94. 
+---
+51 Arrested for Defying Judge's Order at Abortion Protest Rally
+The Miami Herald, April 11, 199...
+
+95. Distribution: world
+NNTP-Posting-Host: kelvin.jpl.nasa.gov
+Keywords: Magellan, JPL
+News-Software: VA...
+
+96. 
+Is the film from the "putt-putt" test vehicle which used conventional
+explosives as a proof-of-conc...
+
+97. 
+As for SF and advertising in space. There is a romantic episode
+in Mead's "The Big Ball of Wax" whe...
+
+98. 
+One thing to consider is time division multiplexing the EMG
+channels to reduce the number of RF car...
+
+99. Supersedes: <astronaut_730956661@cs.unc.edu>
+NNTP-Posting-Host: mahler.cs.unc.edu
+
+Archive-name: spa...
+
+100. Distribution: world
+NNTP-Posting-Host: tm0006.lerc.nasa.gov
+News-Software: VAX/VMS VNEWS 1.41    
+
+I...
+
+101. 
+While driving through the middle of nowhere, I picked up KNBR, AM 1070,
+a clear-channel station bas...
+
+102. 
+JL-NS>Subject: Re: Motorcycle Courier (Summer Job)
+
+I'd like to thank everyone who replied. I will ...
+
+103. 
+cotera@woods.ulowell.edu writes:
+
+>Once again, where's your proof? Suicide is considered a sin by B...
+
+104. 
+I need a small battery powered hi voltage capacitive discharge supply to
+deliver ~6 joules at 250 v...
+
+105. NNTP-Posting-Host: uwast.astro.wisc.edu
+
+
+Actually, the "ether" stuff sounded a fair bit like a bizz...
+
+106. Reply-To: wb8foz@skybridge.scl.cwru.edu (David Lesher)
+NNTP-Posting-Host: skybridge.scl.cwru.edu
+
+Ot...
+
+107. NNTP-Posting-Host: 146.64.23.16
+X-Disclaimer: None of the opions expressed herein are the official
+X...
+
+108. 
+In article <1qv82l$oj2@usenet.INS.CWRU.Edu> ch981@cleveland.Freenet.Edu (Tony Alicea) writes:
+>
+>
+>...
+
+109. NNTP-Posting-Host: tahiti.larc.nasa.gov
+
+
+> flight tests are generally carefully coreographed and ju...
+
+110. 
+it seems the 200 miles of trailering in the rain has rusted my bike's headers.
+the metal underneath...
+
+111. Supersedes: <DoD.monthly_730969501@javelin.sim.es.com>
+
+This is a periodic posting intended to answe...
+
+112. 
+    Just observed at the National Model United Nations here in NYC.
+    Just one word on it : AWSOM...
+
+113. Distribution: world
+NNTP-Posting-Host: laura.harvard.edu
+In-reply-to: ryan_cousineau@compdyn.questor...
+
+114. 
+In my last post I referred to Michael Adams as "Nick."  Completely my
+error; Nick Adams was a film ...
+
+115. 
+The subject line says it all. I'm working on a project
+that will use a car battery. I need to pull ...
+
+116. 
+In article <1993Apr20.131800.16136@alw.nih.gov> gregh@niagara.dcrt.nih.gov (Gregory Humphreys) writ...
+
+117. 
+Well, the message was interesting (and long), but TWICE? Oh Well. Personally,
+I loathe libertariani...
+
+118. 
+In article <1746.2BD37A66@paranet.FIDONET.ORG> 
+Bill.Carlson@p0.f18.n104.z1.FIDONET.ORG (Bill Carls...
+
+119. NNTP-Posting-Host: carson.u.washington.edu
+
+In article <1993Apr9.041505.8593@ringer.cs.utsa.edu> dji...
+
+120. 
+In article <C5Ky9y.MKK@raistlin.udev.cdc.com> pbd@runyon.cim.cdc.com (Paul Dokas) writes:
+>Anyhow, ...
+
+121. Distribution: world
+NNTP-Posting-Host: kelvin.jpl.nasa.gov
+Keywords: Galileo, JPL
+News-Software: VAX...
+
+122. 
+Write a good manual to go with the software.  The hassle of
+photocopying the manual is offset by si...
+
+123. 
+	Long time, no see.
+
+			Andreas
+
+-- 
+
+		Andreas - Siperian Sirri   Siberian Stint
+
+	No ITU, love, e...
+
+124. 
+	Hmmm. I seem to recall that the attraction of solid state record-
+players and radios in the 1960s ...
+
+125. 
+musone@acsu.buffalo.edu (Mark J. Musone) writes:
+
+> P.S. any REALLY GOOD BOOKS on AM/FM theory ALON...
+
+126. 
+mdonahue@amiganet.chi.il.us (Mike Donahue) writes:
+
+
+>I do NOT know much about Adcom Mobil Audio pr...
+
+127. 
+
+oops, that's KNX 1070. KNBR is up in 'Frisco, and down at 680.
+
+==Doug "San Fran can't be 'the cit...
+
+128. 
+In article <1993Apr5.165548.21479@research.nj.nec.com> behanna@phoenix.syl.nj.nec.com (Chris BeHann...
+
+129. 
+
+The Nicene Creed
+
+WE BELIEVE in one God the Father Almighty, Maker of heaven and earth, and of all...
+
+130. 
+In article <1993Apr3.110048.4636@hemlock.cray.com> kilian@cray.com (Alan Kilian) writes:
+>> jeh@cmk...
+
+131. NNTP-Posting-Host: sandman.caltech.edu
+
+sehari@iastate.edu (Babak Sehari) writes:
+
+>Similarly, peopl...
+
+132. NNTP-Posting-Host: oregon.uoregon.edu
+News-Software: VAX/VMS VNEWS 1.41
+
+In article <765445d3219144t...
+
+133. NNTP-Posting-Host: yfn.ysu.edu
+
+
+Someone posted a list of x number of alleged Bible contradictions. ...
+
+134. 
+
+McDonnell Douglas rolls out DC-X
+
+        HUNTINGTON BEACH, Calif. -- On a picture-perfect Souther...
+
+135. NNTP-Posting-Host: cs.utexas.edu
+
+JOB 26:7  He stretcheth out the north over the empty  place,  and
+...
+
+136. 
+Hi,
+
+	Being a Electronic Engineering Student with only Electronic II under
+my belt, I find myself *...
+
+137. 
+In article <930416.140529.9M1.rusnews.w165w@mantis.co.uk> 
+mathew@mantis.co.uk (mathew) writes:
+>li...
+
+138. 
+Greetings:
+
+Can someone steer me towards sources of information on vehicle data
+logging systems?  I...
+
+139. Distribution: world
+NNTP-Posting-Host: localhost.mcs.com
+
+ 
+ The following was posted and no doubt r...
+
+140. Return-Path: <amail.amdahl.com!rich.bellacera@juts.ccc.amdahl.com>
+
+I would like to apologize for th...
+
+141. NNTP-Posting-Host: violet.berkeley.edu
+
+I had spacefood sticks just about every morning for breakfas...
+
+142. 
+		Southern California RideList -- 4/14/93
+
+  Please send me any updates to this ride list. Remember...
+
+143. 
+In article <speedy.147@engr.latech.edu>, speedy@engr.latech.edu (Speedy
+Mercer) writes:
+|> I was at...
+
+144. Nntp-Posting-Host: b329-gator-3.pica.army.mil
+
+maven@mavenry.altcit.eskimo.com (Norman Hamer) wrote:...
+
+145. 
+My old jacket is about to bite the dust so I'm in the market for a new riding
+jacket.  I'm looking ...
+
+146. 
+The object of a cooling tower is to distribute dissolved salts in 
+cooling water over large areas o...
+
+147. 
+Reported yesterday in the Washington Post (Kathy Sawyer, writer):
+
+The article plays down the Russi...
+
+148. 
+It is usually possible to reach people at IKI (Institute for Space
+Research) in Moscow by writing t...
+
+149. NNTP-Posting-Host: cs.utexas.edu
+
+Deuteronmy 20:13
+And when the Lord thy God hath delivered it into ...
+
+150. 
+In article: <1qlg9o$d7q@sequoia.ccsd.uts.EDU.AU>
+	swalker@uts.EDU.AU (-s87271077-s.walker-man-50-) ...
+
+151. Distribution: world
+NNTP-Posting-Host: oregon.uoregon.edu
+Summary: GM's quest for justice
+News-Softw...
+
+152. 
+In article <1ppi1gINNg19@elroy.jpl.nasa.gov> carlos@beowulf.Jpl.Nasa.Gov (Carlos Carrion) writes:
+ ...
+
+153. 
+Wm. L. Ranck (ranck@joesbar.cc.vt.edu) wrote:
+:    I hate to admit this, and I'm still mentally kic...
+
+154. 
+Anti Freeze
+
+I was wrong, still had the issue of "Street Rodder" in
+my last pile. In the February 1...
+
+155. Distribution: world
+NNTP-Posting-Host: access.digex.net
+Keywords: JPL
+
+In article <23APR199317325771...
+
+156. 
+
+
+                      LARSONIAN Astronomy and Physics
+
+               Orthodox physicists, astron...
+
+157. 
+
+
+Could someone please send me the basics of the NASP project:
+1. The proposal/objectives
+2. The cu...
+
+158. NNTP-Posting-Host: ampere.mit.edu
+
+In article <1993Apr16.142715.12613@sol.ctr.columbia.edu> seema@ma...
+
+159. 
+In article <1993Apr14.234835.1@cua.edu> 84wendel@cua.edu writes:
+>Has anyone ever heard of a rider ...
+
+160. Nntp-Posting-Host: ducvax
+Organization: Auburn University, AL
+Lines: 18
+
+Hello,
+
+I just canceled my ...
+
+161. 
+In article <9308@blue.cis.pitt.edu> cjp+@pitt.edu (Casimir J Palowitch) writes:
+>The Clinton Admini...
+
+162. Distribution: world
+NNTP-Posting-Host: kelvin.jpl.nasa.gov
+News-Software: VAX/VMS VNEWS 1.41    
+
+Fo...
+
+163. Distribution: world
+Expires: 6 May 1993 19:58:29 GMT
+NNTP-Posting-Host: mahler.cs.unc.edu
+Keywords: ...
+
+164. 
+In <1993Apr2.154706.15557@rotag.mi.org> kevin@rotag.mi.org (Kevin Darcy) writes:
+
+|Congress is NOT ...
+
+165. 
+
+Intel also makes some neat memory and peripheral chips:
+
+Old technology (early 1980's)  
+8155  ram...
+
+166. NNTP-Posting-Host: access.digex.net
+
+In article <1993Apr21.150545.24058@iti.org> aws@iti.org (Allen ...
+
+167. 
+cramer@optilink.COM (Clayton Cramer) writes:
+
+><ericsC4x1K9.Apz@netcom.com>, erics@netcom.com (Eric...
+
+168. 
+Thanks for the resposes as they were all good ideas and I am looking at using a
+couple of the ideas...
+
+169. 
+If the set is direct line powered, try checking the [likely to be
+there] hybrid regulator module do...
+
+170. 
+930420
+
+Do what thou wilt shall be the whole of the Law.
+The word of Sin is Restriction.
+
+
+Kent (sa...
+
+171. 
+Archive-name: space/net
+Last-modified: $Date: 93/04/01 14:39:15 $
+
+NETWORK RESOURCES
+
+OVERVIEW
+
+   ...
+
+172. 
+
+burning yourself alive seems a rough way to go, given the waco bunch
+had other choices.
+
+but it re...
+
+173. 
+
+	I've got an rgb Mistubishi monitor and on the back it has 5
+BNC connectors labeled like this:
+
+  ...
+
+174. 
+In <1qkn6rINNett@mojo.eng.umd.edu> sysmgr@king.eng.umd.edu writes:
+
+> In article <1993Apr15.170048....
+
+175. 
+I need information on microstrip circuit design especially 
+filter design for the 1-3GHz range. Can...
+
+176. 
+  Does anyone have some information on the relative fraction of the final
+cost of each component in...
+
+177. NNTP-Posting-Host: achates.mit.edu
+
+
+If gamma ray bursters are extragalactic, would absorption from ...
+
+178. 
+
+test
+
+
+179. Reply-To: wb8foz@skybridge.scl.cwru.edu (David Lesher)
+NNTP-Posting-Host: skybridge.scl.cwru.edu
+
+Ot...
+
+180. 
+In article <1993Apr23.155313.4220@dazixco.ingr.com> jbreed@ingr.com writes:
+>|> [Pluto's] atmospher...
+
+181. 
+Now, I am jumping into the middle of this thread so I may not know
+what y'all been talking about, b...
+
+182. 
+This is for a friend of mine. Please send answers directly to him (E-Mail
+adress see below )!
+
+
+HIG...
+
+183. 
+Here is a different viewpoint.
+
+> FYI:  The actual horizontal dot placement resoution of an HP
+> de...
+
+184. 
+: henry@zoo.toronto.edu (Henry Spencer) writes:
+
+: >There is an emergency oxygen system that is cap...
+
+185. NNTP-Posting-Host: slc10.ins.cwru.edu
+
+
+
+If anyone has the current Moto Guzzi National Owners Club
+a...
+
+186. 
+In article <1r0b69INN5ct@flash.pax.tpa.com.au> mgregory@flash.pax.tpa.com.au (Martin John Gregory) ...
+
+187. Nntp-Posting-Host: cimill
+
+In article <734953838.AA00508@insane.apana.org.au>,
+peter.m@insane.apana....
+
+188. 
+In article <20APR199301460499@utarlg.uta.edu> b645zaw@utarlg.uta.edu (stephen) writes:
+
+>Seems to m...
+
+189. NNTP-Posting-Host: zion.berkeley.edu
+
+> Any thoughts on who is going to count all of the gorgeous bo...
+
+190. 
+Does anyone know how to size cold gas roll control thruster tanks
+for sounding rockets?
+
+Thanks in ...
+
+191. 
+I am posting this for a friend without internet access. Please inquire
+to the phone number and addr...
+
+192. 
+I assume that can only be guessed at by the assumed energy of the
+event and the 1/r^2 law.  So, if ...
+
+193. NNTP-Posting-Host: math9.math.umbc.edu
+
+In article <1993Apr21.141824.23536@cbis.ece.drexel.edu> jpw@...
+
+194. NNTP-Posting-Host: slc10.ins.cwru.edu
+
+
+I recently bought an apparantly complete Expansion Chassis b...
+
+195. 
+Does anybody know anything about the chips D6275A/D6235A/D6205A chips from
+DSP Telecommunications I...
+
+196. 
+In article <00969FBA.E640FF10@AESOP.RUTGERS.EDU> mcdonald@AESOP.RUTGERS.EDU writes:
+>[...]
+>There a...
+
+197. 
+
+R >>>JD> ALL PC parallel ports that are compatable with the IBM standard,
+R >>>JD> including the o...
+
+198. Distribution: world
+NNTP-Posting-Host: access.digex.net
+
+
+
+Some birds require constant management fo...
+
+199. 
+I've recently become father of twins!  I don't think I can afford
+ to keep 2 bikes and 2 babies.  B...
+
+200. X-Newsreader: TIN [version 1.1 PL9]
+
+
+There is a nice little tool in Lucid emacs. It's called "calen...
+
+
+=== CLUSTER 2 SAMPLE TEXTS ===
+
+1. 
+In article <93089.204431GRV101@psuvm.psu.edu> Callec Dradja <GRV101@psuvm.psu.edu> writes:
+>I am a ...
+
+2. 
+In article <1993Apr19.131102.7843@rchland.ibm.com> 
+xzz0280@rchland.vnet.ibm.com (R. J. Traff) writ...
+
+3. NNTP-Posting-Host: life.ai.mit.edu
+
+
+
+
+
+                           THE WHITE HOUSE
+
+                ...
+
+4. 
+fsset@bach.lerc.nasa.gov (Scott Townsend) writes:
+
+>I got a question from my dad which I really can...
+
+5. Nntp-Posting-Host: thor.isc-br.com
+
+In article <16APR199317391664@rigel.tamu.edu> gmw0622@rigel.tamu...
+
+6. 
+In article <1993Apr18.091051.14496@ke4zv.uucp> gary@ke4zv.uucp (Gary Coffman) writes:
+
+   In articl...
+
+7. 
+In article <7912@blue.cis.pitt.edu> joslin@pogo.isp.pitt.edu (David Joslin) writes:
+>[Many good poi...
+
+8. 
+In article <1993Apr20.131800.16136@alw.nih.gov> gregh@niagara.dcrt.nih.gov (Gregory Humphreys) writ...
+
+9. Organization: University of Waterloo
+
+Hi, I just have a small question about my bike. 
+Being a fairl...
+
+10. 
+I would appreciate some help in locating a telephone controlled power bar
+for my PC. The unit would...
+
+11. 
+With the continuin talk about the "End of the Space Age" and complaints 
+by government over the lar...
+
+12. 
+tfarrell@lynx.dac.northeastern.edu (Thomas Farrell) writes:
+|>So you feel that the defendents shoul...
+
+13. 
+In article <1pkkidINNsrj@senator-bedfellow.MIT.EDU> wdstarr@athena.mit.edu (William December Starr)...
+
+14. NNTP-Posting-Host: life.ai.mit.edu
+
+
+
+                         THE WHITE HOUSE
+
+                  Of...
+
+15. 
+m23364@mwunix.mitre.org (James Meritt) writes:
+>}So stop dodging the question.  What is hypocritica...
+
+16. 
+Tall Cool One (rky57514@uxa.cso.uiuc.edu) wrote:
+: As the subject says - Can I use a 4052 for digit...
+
+17. 
+In article <RLM.93Apr2050627@helen.surfcty.com>, rlm@helen.surfcty.com
+(Robert L. McMillin) rants:
+...
+
+18. 
+
+In article <1993Apr04.071624.14068@armory.com> (talk.politics.misc,alt.sex,soc.men), rstevew@armor...
+
+19. 
+In article <1993Apr15.164605.8439@isc-br.isc-br.com>, steveh@thor.isc-br.com (Steve Hendricks) writ...
+
+20. Distribution: world
+NNTP-Posting-Host: judy.uh.edu
+News-Software: VAX/VMS VNEWS 1.41    
+
+In article...
+
+21. 
+In article <C5MuIw.AqC@mailer.cc.fsu.edu> dlecoint@garnet.acns.fsu.edu (Darius_Lecointe) writes:
+
+>...
+
+22. Nntp-Posting-Host: 144.124.112.30
+
+>first ride of the season.
+>
+One thing is certain, though, its st...
+
+23. 
+AllThe Devil ReincarnateSWR meter for CB radios
+
+TD>From: ssave@ole.cdac.com (The Devil Reincarnate...
+
+24. 
+In article <93107.144339SAUNDRSG@QUCDN.QueensU.CA> Graydon <SAUNDRSG@QUCDN.QueensU.CA> writes:
+>Thi...
+
+25. 
+
+/(emery)
+/The one single historic event that has had the biggest impact on the
+/world over the cen...
+
+26. 
+ajteel@dendrite.cs.Colorado.EDU (A.J. Teel) writes:
+
+>	If you are a "United States' Citizen" and a ...
+
+27. 
+In article <dasmith.734719640@husc.harvard.edu> dasmith@husc8.harvard.edu (David Smith) writes:
+>Gr...
+
+28. 
+Brian Day (bday@lambda.msfc.nasa.gov) wrote:
+: On December 29, 1992, it was illegal to operate a ra...
+
+29. 
+
+In article <1993Apr2.201514.20021@isc-br.isc-br.com>, steveh@thor.isc-br.com (Steve Hendricks) wri...
+
+30. 
+ryan_cousineau@compdyn.questor.org (Ryan Cousineau)  writes:
+
+> My previous posting on dog attacks ...
+
+31. 
+In article <1992Jun25.132424.20760@prl.philips.nl>, mcardle@prl.philips.nl (Owen McArdle) writes......
+
+32. 
+In article <1993Apr18.230531.11329@bcars6a8.bnr.ca> keithh@bnr.ca (Keith Hanlan) writes:
+>In articl...
+
+33. 
+I keep finding these programmers in local junk shops. This may
+mean that they are indeed junk - but...
+
+34. 
+In article <C5t759.DsC@well.sf.ca.us> rwert@well.sf.ca.us (Bob Wert) writes:
+	<...>	<...>
+>This per...
+
+35. Distribution: usa
+Reply-To: doc@webrider.central.sun.com
+NNTP-Posting-Host: webrider.central.sun.com...
+
+36. 
+My previous posting on dog attacks must have generated some bad karma or
+something. I've weathered ...
+
+37. Nntp-Posting-Host: descartes.tec.army.mil
+
+In article <1993Apr2.180839.14305@galileo.cc.rochester.ed...
+
+38. 
+Brian Kendig writes:
+
+>  Lev 17:11: For the life of the flesh is in the blood, and I have given
+>  ...
+
+39. 
+In article <2385@emoryu1.cc.emory.edu> labrg@emory.edu (Ryan Montieth Gill) writes:
+>
+>	For those w...
+
+40. 
+Francisco da Fonseca Rodrigues writes:
+
+> 	Tonigth a TV journal here in Brasil announced that an ob...
+
+41. 
+A poster writes:
+
+> In the Kingdom of God (Vaikuntha) the tigers do not eat other living
+> beings. ...
+
+42. 
+In article <1993Apr16.193723.19050@asl.dl.nec.com> duffy@aslss02.asl.dl.nec.com (Joseph Duffy) writ...
+
+43. 
+Brian Kendig (bskendig@netcom.com) wrote:
+: 
+: Can you please point to something, anything, that pr...
+
+44. Return-Path: <amail.amdahl.com!rich.bellacera@juts.ccc.amdahl.com>
+
+Walter-
+
+I tried several times i...
+
+45. NNTP-Posting-Host: oregon.uoregon.edu
+News-Software: VAX/VMS VNEWS 1.41
+
+In article <1993Apr5.040414...
+
+46. 
+In article <1qp5juINNgu5@senator-bedfellow.MIT.EDU>, wdstarr@athena.mit.edu (William December Starr...
+
+47. X-Maildoor: WaflineMail 1.00r
+
+{Jason Haines} said
+   "what to do with old 256k"
+      to <All> on 0...
+
+48. NNTP-Posting-Host: im4u.cs.utexas.edu
+Keywords: MITI
+
+I have a thermal fuse from a Apple Laserwriter...
+
+49. NNTP-Posting-Host: hsc.usc.edu
+
+In article <1993Apr26.184507.10511@aio.jsc.nasa.gov> kjenks@gothamci...
+
+50. 
+I read it refered to as the "parabolic cross-section" rule;
+the idea was that if you plot the area ...
+
+51. 
+In article <1993Apr15.170731.8797@isc-br.isc-br.com> steveh@thor.isc-br.com (Steve Hendricks) write...
+
+52. 
+frank@D012S658.uucp (Frank O'Dwyer) writes ...
+>Plus questions for you:  why do subjectivists/relat...
+
+53. 
+   Two developments have brought these type of activities back to
+the forefront in 1993.  First, in...
+
+54. NNTP-Posting-Host: hernes-sun
+
+In article <1qkj31$4c6@horus.ap.mchp.sni.de> frank@D012S658.uucp (Fra...
+
+55. 
+
+In article <1993Apr18.172531.10946@isc-br.isc-br.com>, steveh@thor.isc-br.com (Steve Hendricks) wr...
+
+56. 
+In rec.motorcycles, bean@ra.cgd.ucar.edu (Gregory Bean) writes:
+>Help!  I've got a friend shopping ...
+
+57. NNTP-Posting-Host: fnalf.fnal.gov
+
+In article <C5xp0K.G79@brunel.ac.uk>, mt90dac@brunel.ac.uk (Del C...
+
+58. NNTP-Posting-Host: access.digex.net
+
+In article <C4t3K3.498@cck.coventry.ac.uk> enf021@cck.coventry....
+
+59. NNTP-Posting-Host: grissom.larc.nasa.gov
+
+In article <7480237@hpfcso.FC.HP.COM> myers@hpfcso.FC.HP.C...
+
+60. 
+In article <1993Apr15.223844.16453@rambo.atlanta.dg.com> wpr@atlanta.dg.com (Bill Rawlins) writes:
+...
+
+61. 
+In article <7166@pdxgate.UUCP>, a0cb@rigel.cs.pdx.edu (Chris Bertholf) writes:
+> MCARTWR@auvm.ameri...
+
+62. 
+In <1pp6reINNonl@phantom.gatech.edu> matthew@phantom.gatech.edu (Matthew DeLuca) writes:
+
+>In artic...
+
+63. 
+In article <1993Apr16.083029.12516@umr.edu> ckincy@cs.umr.edu (Charles Kincy) w
+rites:
+>In article ...
+
+64. Nntp-Posting-Host: ccsua.ctstateu.edu
+Organization: Yale University, Department of Computer Science,...
+
+65. 
+In article <9157@blue.cis.pitt.edu> joslin@pogo.isp.pitt.edu (David Joslin) writes:
+}For those miss...
+
+66. 
+rubin@cis.ohio-state.edu (Daniel J Rubin) writes:
+
+>How hard would it be to somehow interface them ...
+
+67. 
+In article <buddha.735157446@du248-07.cc.iastate.edu> buddha@iastate.edu (Scott H Vann) writes:
+>
+>...
+
+68. 
+judi@wam.umd.edu (Jay T Stein -- objectively subjective) writes:
+
+>Question:  Is there any effectiv...
+
+69. 
+In article <1993Apr17.013559.17391@pony.Ingres.COM> garrett@Ingres.COM  writes:
+    >>I see you are...
+
+70. 
+brian@lpl.arizona.edu (Brian Ceccarelli 602/621-9615) writes:
+>Brian Kendig writes:
+>
+>>If you can ...
+
+71. Nntp-Posting-Host: acad3.alaska.edu
+
+In article <C4zHKw.3Dn@zoo.toronto.edu>, henry@zoo.toronto.edu ...
+
+72. 
+>The father of a friend of mine is a police officer in West Virginia.  Not  
+>only is his word as a...
+
+73. NNTP-Posting-Host: life.ai.mit.edu
+
+
+
+
+
+                         THE WHITE HOUSE
+
+                  ...
+
+74. Distribution: world
+NNTP-Posting-Host: venus.tamu.edu
+Summary: Limited governments versus failed gov...
+
+75. 
+In article <20APR199306173611@utarlg.uta.edu>, b645zaw@utarlg.uta.edu
+(stephen) wrote:
+> tional as ...
+
+76. 
+  Does anybody out there have one of those food dehydrators I've been seeing
+all over late-night TV...
+
+77. 
+
+There has been a lot of discussion about Tyre.  In sum, Ezekiel prophesied
+that the place would be...
+
+78. 
+"David R. Sacco" <dsav+@andrew.cmu.edu> writes:
+>    Not to be too snide about it, but I think this...
+
+79. 
+In article <1qug3sINN90g@rave.larc.nasa.gov> kludge@grissom.larc.nasa.gov (Scott Dorsey) writes:
+
+>...
+
+80. 
+yamauchi@ces.cwru.edu (Brian Yamauchi) writes:
+
+>Any comments on the absorbtion of the Office of Ex...
+
+81. 
+rls@uihepa.hep.uiuc.edu (Ray Swartz (Oh, that guy again)) writes:
+
+>The gravity maneuvering that wa...
+
+82. 
+
+Does anyone have a rear wheel for a PD they'd like to part with?
+
+Does anyone know where I might f...
+
+83. 
+In article <MS-C.735160298.1147902781.mrc@Ikkoku-Kan.Panda.COM>, mrc@Ikkoku-Kan.Panda.COM (Mark Cri...
+
+84. 
+In article 23791@organpipe.uug.arizona.edu, ece_0028@bigdog.engr.arizona.edu (David Anderson) write...
+
+85. 
+
+In article <1r1ma9INNno7@owl.csrv.uidaho.edu>, lanph872@crow.csrv.uidaho.edu (Rob Lanphier) writes...
+
+86. Nntp-Posting-Host: acad3.alaska.edu
+
+Here is a way to get the commericial companies into space and m...
+
+87. NNTP-Posting-Host: fleming-07.cs.strath.ac.uk
+
+being a mere female, I have often found I can't reall...
+
+88. 
+In regards ot some of the posts concerning bias in articles of k bikes
+versis /2's or boxers of a l...
+
+89. 
+brian@lpl.arizona.edu (Brian Ceccarelli 602/621-9615) writes:
+>
+>They do not want to know it or be ...
+
+90. Nntp-Posting-Host: thor.isc-br.com
+
+In article <18APR199320091677@venus.tamu.edu> gmw0622@venus.tamu...
+
+91. 
+In article <sandvik-170493104641@sandvik-kent.apple.com> 
+sandvik@newton.apple.com (Kent Sandvik) w...
+
+92. NNTP-Posting-Host: access.digex.net
+
+
+
+I thought that under emergency conditions,  the STS  can
+put ...
+
+93. 
+In article <1993Apr20.173742.99726@ns1.cc.lehigh.edu> hl00@ns1.cc.lehigh.edu (HOU-SHENG LIN) writes...
+
+94. 
+In article <sandvik-190493201048@sandvik-kent.apple.com> sandvik@newton.apple.com (Kent Sandvik) wr...
+
+95. NNTP-Posting-Host: orchid.ucsc.edu
+
+In article <C5LA55.Bwq@murdoch.acc.Virginia.EDU> gsh7w@fermi.cla...
+
+96. 
+In article <1993Apr15.225657.17804@rambo.atlanta.dg.com>, wpr@atlanta.dg.com (Bill Rawlins) writes:...
+
+97. 
+brian@gab.unt.edu (Brian "Drakula" Stone) writes:
+
+>>The article also contains numbers on the numbe...
+
+98. NNTP-Posting-Host: calvin.sbc.com
+
+In article <1993Apr20.131800.16136@alw.nih.gov> gregh@niagara.dcr...
+
+99. 
+A related question (which I haven't given that much serious thought 
+to): at what lattitude is the ...
+
+100. 
+I suggest that misc.consumer.house is a better forum for this, several
+electricians, a huge FAQ tha...
+
+101. 
+
+
+/(Frank DeCenso)
+/>
+/>I need to prioritize things in my life, and this board is not all that impo...
+
+102. 
+In article <C5soDA.3L8@murdoch.acc.Virginia.EDU> 
+pmy@vivaldi.acc.virginia.edu (Pete Yadlowsky) wri...
+
+103. NNTP-Posting-Host: zion.cis.ohio-state.edu
+
+> Hi there,
+> Can anyone tell me where it is possible to...
+
+104. NNTP-Posting-Host: access.digex.net
+
+In article <1993Apr23.001718.1@aurora.alaska.edu> nsmca@aurora....
+
+105. 
+In article <1993Apr15.143320.8618@desire.wright.edu> demon@desire.wright.edu (Not a Boomer) writes:...
+
+106. 
+>>So when you turn on the power, this causes the bulb to work like a neon, 
+>
+>Imprecise. This desc...
+
+107. 
+
+Robert Weiss (psyrobtw@ubvmsb.cc.buffalo.edu) writes:
+
+#Rick Anderson replied to my letter with......
+
+108. 
+> magarret@magnus.acs.ohio-state.edu (COMPUTER DUDETTE) writes:
+
+>I just recently realized that I a...
+
+109. 
+In <C5L5x0.KJ7@vcd.hp.com>, John Eaton writes:
+
+   [...]
+>During the nuclear fission reaction the u...
+
+110. 
+sys1@exnet.co.uk (Xavier Gallagher) writes:
+: 
+: No.  I make a distinction between working for your...
+
+111. 
+In article <bskendigC5rBvn.AAI@netcom.com> bskendig@netcom.com (Brian Kendig) writes:
+
+>And I maint...
+
+112. 
+I replied to your message, however, it is listed as a new topic with
+the title: "rnitedace and viol...
+
+113. 
+So we have this highly Christian religious order that put fire
+on their house, killing most of the ...
+
+114. NNTP-Posting-Host: cs.utexas.edu
+
+Distribution: usa
+Reply-To: lihan@ccwf.cc.utexas.edu
+
+While I'm on...
+
+115. Distribution: world
+NNTP-Posting-Host: oregon.uoregon.edu
+News-Software: VAX/VMS VNEWS 1.41    
+
+In ...
+
+116. 
+hoover@mathematik.uni-bielefeld.de (Uwe Schuerkamp) writes:
+
+>In article <C5t05K.DB6@research.canon...
+
+117. Distribution: world
+NNTP-Posting-Host: coffee.eng.umd.edu
+Originator: oconnor@coffee.eng.umd.edu
+
+
+O...
+
+118. 
+In article <mjs.734954875@zen.sys.uea.ac.uk>, mjs@sys.uea.ac.uk (Mike Sixsmith) writes:
+|> 
+|> Form...
+
+119. 
+In article <C5KDzK.497@acsu.buffalo.edu>, psyrobtw@ubvmsd.cc.buffalo.edu (Robert
+Weiss) says:
+>    ...
+
+120. 
+croaker@highlite.uucp (Francis A. Ney) writes:
+
+> Besides which, we don't *want* Clinton assasinate...
+
+121. Organization: University of Tennessee Computing Center
+
+In article <C5n4wH.Izv@dscomsa.desy.de> hall...
+
+122. Distribution: world
+Reply-To: egreen@east.sun.com
+NNTP-Posting-Host: laser.east.sun.com
+
+In article ...
+
+123. 
+In article <1993Apr15.225657.17804@rambo.atlanta.dg.com>
+wpr@atlanta.dg.com (Bill Rawlins) writes:
+...
+
+124. NNTP-Posting-Host: alumni.caltech.edu
+
+prb@access.digex.com (Pat) writes:
+
+>  What  evidence  indica...
+
+125. 
+In <C5L0v1.JCv@news.cso.uiuc.edu> dans@uxa.cso.uiuc.edu (Dan S.) writes:
+
+>brian@gab.unt.edu (Brian...
+
+126. 
+
+Hello--
+
+I just bought a new portable CD player for the office, and I notice that
+it proudly procl...
+
+127. 
+In article <1993Apr21.150545.24058@iti.org>, aws@iti.org (Allen W. Sherzer)
+wrote:
+> 
+> In article ...
+
+128. 
+olsen@vetmed.cvm.uiuc.edu (Aart_Olsen) writes:
+
+>>|> I noticed at the fusebox that some circuits ha...
+
+129. 
+In article <1993Apr14.141637.20071@mnemosyne.cs.du.edu> jhensley@nyx.cs.du.edu (John Hensley) write...
+
+130. NNTP-Posting-Host: max.u.washington.edu
+
+What would all of you out there in net land think of the bi...
+
+131. 
+> i need some brief information on scientology (or applientology as frank zappa
+> would call it) an...
+
+132. Nntp-Posting-Host: kin.lap.upenn.edu
+
+
+I just noticed that my halogen table lamp runs off 12 Volts.
+...
+
+133. 
+v140pxgt@ubvmsb.cc.buffalo.edu (Daniel B Case) writes:
+>gld@cunixb.cc.columbia.edu (Gary L Dare) wr...
+
+134. 
+In <C5sqyA.F7v@noose.ecn.purdue.edu> tbrent@bank.ecn.purdue.edu (Timothy J Brent) writes:
+
+|Probabl...
+
+135. 
+crichmon@sedona.intel.com (Chris Richmond) writes:
+>Well, my house was built just last year, and th...
+
+136. 
+In article <C5DLvo.6J@skates.gsfc.nasa.gov> tim@intrepid.gsfc.nasa.gov (Tim Seiss) writes:
+>
+>  Aft...
+
+137. News-Software: VAX/VMS VNEWS 1.41
+Nntp-Posting-Host: ubvmsd.cc.buffalo.edu
+
+
+	Those things,
+	which y...
+
+138. 
+In article <1993Apr20.120311.1@pa881a.inland.com> schiewer@pa881a.inland.com (Don Schiewer) writes:...
+
+139. 
+In article <stevethC5LI9y.C1v@netcom.com> steveth@netcom.com (Steve Thomas) wri
+tes:
+>In article <1...
+
+140. Distribution: usa
+NNTP-Posting-Host: vtaix.cc.vt.edu
+
+I had a GE Emerson 13" color TV for about 3 ye...
+
+141. Distribution: world
+Reply-To: C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON)
+NNTP-Posting-Host: ...
+
+142. Distribution: sci
+NNTP-Posting-Host: access.digex.net
+
+
+
+I am sure  Mary or Henry can describe this ...
+
+143. 
+A question regarding the Islamic view towards homosexuality came up in a
+discussion group that I pa...
+
+144. 
+I don't want to do this, but I need money for school.  This is
+a very snappy bike.  It needs a litt...
+
+145. News-Software: VAX/VMS VNEWS 1.41
+Nntp-Posting-Host: ubvmsb.cc.buffalo.edu
+
+
+
+	But as many as receiv...
+
+146. 
+
+	If you look through this newsgroup, you should be 
+	able to find Clinton's proposed "Wiretapping"...
+
+147. 
+
+----- News saved at 23 Apr 93 22:22:40 GMT
+In article <1993Apr22.130923.115397@zeus.calpoly.edu> d...
+
+148. NNTP-Posting-Host: nw12-326-1.mit.edu
+In-reply-to: william@fractl.tn.cornell.edu
+
+
+In article <1qpvj...
+
+149. 
+In article <1993Apr16.142715.12613@sol.ctr.columbia.edu> seema@madvlsi.columbia.edu (Seema Varma) w...
+
+150. 
+rborden@ugly.UVic.CA (Ross  Borden) writes:
+
+> In article <734850108.F00002@permanet.org> Mark.Prad...
+
+151. 
+kolstad@cae.wisc.edu (Joel Kolstad) writes:
+
+> In article <734953838.AA00510@insane.apana.org.au> p...
+
+152. 
+In article <1pfiuh$64e@access.digex.com> prb@access.digex.com (Pat) writes:
+
+>If the japanese are r...
+
+153. Distribution: world
+NNTP-Posting-Host: s1.gov
+
+yamauchi@ces.cwru.edu (Brian Yamauchi) writes:
+>enzo@...
+
+154. 
+
+Can someone please remind me who said a well known quotation? 
+
+He was sitting atop a rocket await...
+
+155. NNTP-Posting-Host: access.digex.net
+
+
+Henry,
+
+didn't the Little Joe  and Big Joe  get built in under...
+
+156. Return-Path: <amail.amdahl.com!rich.bellacera@juts.ccc.amdahl.com>
+
+Tony-
+
+While I honestly believe ...
+
+157. NNTP-Posting-Host: hamp.hampshire.edu
+
+Hi. I have been thinking about buying a Motorcycle or a while...
+
+158. 
+Is it possible to do a "wheelie" on a motorcycle with shaft-drive?
+
+Mike Terry
+'82 Virago
+
+
+159. 
+ 
+ Sigha.
+ 
+ 1) Trying to figure out a way to put a halogen beam on my CB360T... Are 
+there any eas...
+
+160. NNTP-Posting-Host: b64635.student.cwru.edu
+
+In article <1993Apr21.182030.888@batman.bmd.trw.com> jbr...
+
+161. Organization: University of Massachusetts Lowell
+
+In article <1r17j9$5ie@sbctri.sbc.com>, netd@susie...
+
+162. 
+Suppose the Soviets had managed to get their moon rocket working
+and had made it first.  They could...
+
+163. 
+
+(hudson)
+>/These people hurt their own bodies.  Why can't they hurt other peoples bodies
+>/too?  
+...
+
+164. 
+In article <Yfk8p=q00WBM47T0sJ@andrew.cmu.edu>, "David R. Sacco" <dsav+@andrew.cmu.edu> writes:
+>  ...
+
+165. 
+In rec.motorcycles, Matthew Mark Mueller <mm7k+@andrew.cmu.edu> writes:
+> Help!
+> 
+> I need the lef...
+
+166. 
+In article <8968@blue.cis.pitt.edu> joslin@pogo.isp.pitt.edu (David Joslin) writes:
+}m23364@mwunix....
+
+167. 
+nanderso@Endor.sim.es.com (Norman Anderson) writes:
+>jmcocker@eos.ncsu.edu (Mitch) writes:
+>>effect...
+
+168. 
+
+  Robert, you keep making references to "orthodox" belief, and saying things
+like "it is held that...
+
+169. 
+In article <oXZ12B1w164w@cellar.org>, craig@cellar.org (Saint Craig) writes:
+> No anyone who is a "...
+
+170. 
+johne@vcd.hp.com (John Eaton) writes:
+
+>Nigel Allen (ndallen@r-node.hub.org) wrote:
+>: Here is a pr...
+
+171. 
+      The operation going on in Somalia is a peacekeeping/peaceenforcement
+      operation where fo...
+
+172. Nntp-Posting-Host: acad3.alaska.edu
+
+In article <6ZV82B2w165w@theporch.raider.net>, gene@theporch.ra...
+
+173. 
+What a great day! Got back home last night from some fantastic skiing
+in Colorado, and put the batt...
+
+174. 
+   
+
+does anyone have the e-mail address for the white house. if so please send it to
+me thanks a l...
+
+175. Nntp-Posting-Host: thor.isc-br.com
+
+In article <SLAGLE.93Apr5075759@sgi417.msd.lmsc.lockheed.com> sl...
+
+176. 
+In article <1qjbn0$na4@horus.ap.mchp.sni.de>, frank@D012S658.uucp (Frank O'Dwyer) writes:
+
+
+>Really...
+
+177. Nntp-Posting-Host: acad3.alaska.edu
+Organization: University of Alaska Fairbanks
+
+Last I had heard b...
+
+178. 
+In article <1993Apr5.171807.22861@research.nj.nec.com> behanna@phoenix.syl.nj.nec.com (Chris BeHann...
+
+179. NNTP-Posting-Host: solntze.wpd.sgi.com
+
+In article <1qlvh1$fh0@horus.ap.mchp.sni.de>, frank@D012S658...
+
+180. NNTP-Posting-Host: wpi.wpi.edu
+
+Well, this is my second try at posting on this subject. Here goes......
+
+181. 
+
+
+	Ahhh, remember the days of Yesterday?  When we were only 
+	going to pay $17 / month?
+
+	When only...
+
+182. 
+In article <1qnb9tINN7ff@rave.larc.nasa.gov> C.O.EGALON@LARC.NASA.GOV (CLAUDIO OLIVEIRA EGALON) wri...
+
+183. 
+starr@kuhub.cc.ukans.edu writes:
+: I need help with my '85 ZX900A, I put Supertrapp slip-on's on it...
+
+184. 
+In article <13516@news.duke.edu> infante@acpub.duke.edu (Andrew  Infante) writes:
+|Well, as a few o...
+
+185. 
+In article <1993Apr20.230749.12821@reed.edu>, mblock@reed.edu (Matt Block) writes:
+
+>	I guess what ...
+
+186. 
+In <1993Apr16.200354.8045@magnus.acs.ohio-state.edu> rscharfy@magnus.acs.ohio-state.edu (Ryan C Sch...
+
+187. NNTP-Posting-Host: life.ai.mit.edu
+
+
+
+
+
+                         THE WHITE HOUSE
+
+                  ...
+
+188. 
+>In <3889@ncr-mpd.FtCollinsCO.NCR.COM> Brad Wright writes:
+>
+>>	If you know much about PC's (IBM co...
+
+189. 
+
+In article <9304141620.AA01443@dangermouse.mitre.org>, jmeritt@mental.mitre.org writes:
+|> Levitic...
+
+190. 
+In article <C5qsBF.IEK@ms.uky.edu> billq@ms.uky.edu (Billy Quinn) writes:
+>I built a little project...
+
+191. 
+In article <C4rz4J.4q9@odin.corp.sgi.com> amc@crash.wpd.sgi.com
+(Allan McNaughton) writes:
+>In arti...
+
+192. 
+In article <1993Apr17.010734.23670@organpipe.uug.arizona.edu>,
+brian@lpl.arizona.edu (Brian Ceccare...
+
+193. 
+Re: Waving...
+
+I must say, that the courtesy of a nod or a wave as I meet other bikers while
+riding...
+
+194. 
+
+PLease take these and use them.  Take advantage of me... I really
+don't know what they are worth.
+...
+
+195. 
+rborden@ugly.UVic.CA (Ross  Borden) writes:
+
+>	Quick!  Everyone who sees this, post a reply that sa...
+
+196. 
+In article <oXZ12B1w164w@cellar.org> craig@cellar.org (Saint Craig)  
+writes:
+> shz@mare.att.com (K...
+
+197. 
+I am looking for information on infra red based position encoders.
+
+The idea would be to bounce the...
+
+198. 
+
+How 'bout some more info on that alleged supernova in M-81?
+I might just break out the scope for t...
+
+199. 
+In regard to Woody's post, I thought I would remind him of something in
+the midst of his tirade aga...
+
+200. 
+In article <20APR199306173611@utarlg.uta.edu> b645zaw@utarlg.uta.edu (stephen) writes:
+>In article ...
+
+
+=== CLUSTER 3 SAMPLE TEXTS ===
+
+1. 
+
+	Could someone mail me the archive location of the MSF Program (for
+	an IBM, right?)?
+
+	Thanks,
+
+-...
+
+2. 
+In article <1993Apr21.212202.1@aurora.alaska.edu> nsmca@aurora.alaska.edu writes:
+>Here is a way to...
+
+3. 
+
+Hi guys,
+	I've been hearing lots of talk on the net about DC-X and DC-Y,
+but none of the many post...
+
+4. 
+
+For all people that are interested in every aspect of the 2600 try the
+zine:
+
+2600 connection
+$1 c...
+
+5. 
+jbreed@doink.b23b.ingr.com (James B. Reed) writes:
+
+>In article <C5ros0.uy@zoo.toronto.edu>, henry@...
+
+6. 
+After I have produced a schematic with PADS-LOGIC, how do I import it into 
+PADS-PCB to create a PC...
+
+7. 
+Does someone sell OEM scale units with either analog or digital output?
+I need something like the s...
+
+8. 
+Great, the first advantage of cheap coax, I've ever heard.
+
+Cheers   Robert  (HB9NBY)
+
+--
+Robert Ga...
+
+9. 
+In article <9426.97.uupcb@compdyn.questor.org> ryan_cousineau@compdyn.questor.org (Ryan Cousineau) ...
+
+10. 
+In article <930316.144130.lynn@pcgeo23> lynn@granitt.uio.no (Malcolm Lynn) writes:
+>
+>this is a tes...
+
+11. 
+starowl@rahul.net (Michael D. Adams) writes:
+> : If anyone in .netland is in the process of devisin...
+
+12. NNTP-Posting-Host: vela.acs.oakland.edu
+
+In article <C5KMz5.Hy4@newsserver.technet.sg> ipser@solomon...
+
+13. Distribution: world
+NNTP-Posting-Host: harder.ccr-p.ida.org
+In-reply-to: thomsonal@cpva.saic.com's m...
+
+14. Reply-To: ak296@yfn.ysu.edu (John R. Daker)
+NNTP-Posting-Host: yfn.ysu.edu
+
+
+In a previous article, ...
+
+15. 
+In article <C5133A.Gzx@news.cso.uiuc.edu> jbh55289@uxa.cso.uiuc.edu (Josh Hopkins) writes:
+
+>>[Tita...
+
+16. 
+/ hpcc01:rec.motorcycles / cookson@mbunix.mitre.org (Cookson) /  2:02 pm  Apr  2, 1993 /
+
+All right...
+
+17. 
+Saw this in today's newspaper:
+--------------------------------------------------------------------...
+
+18. 
+A surplus-dealing buddy of mine came up with two emulator pods:
+
+	HP64220C (for HP 64100 developmen...
+
+19. 
+In <C50sJG.3Eu@voder.nsc.com> matt@galaxy.nsc.com (Matt Freivald x8043) writes:
+
+>In article 164633...
+
+20. 
+In article <93Apr20.193958.30419@acs.ucalgary.ca> parr@acs.ucalgary.ca (Charles Parr) writes:
+>
+>Wh...
+
+21. 
+ 
+        On an A/D board I've got, I'm using the A/D lines.  It measures 
+the voltages properly, i...
+
+22. 
+In article <1phuse$5u1@sixgun.East.Sun.COM> egreen@east.sun.com writes:
+>In article 28712@aber.ac.u...
+
+23. 
+
+
+try finding a friend that has caller id, then give him a call...
+
+jb
+
+
+In article <20756.2bd16dea...
+
+24. 
+Mark Prado
+  
+>Please go just one step further:
+>How has the word "Clementine" been associated with...
+
+25. 
+klink@cbnewsl.cb.att.com (steven.r.klinkner) writes:
+
+> Can anybody recommend a good, application-o...
+
+26. 
+In article <1qt19d$2fj@vtserf.cc.vt.edu> ranck@joesbar.cc.vt.edu (Wm. L. Ranck) writes:
+>exb0405@cs...
+
+27. 
+If I have one thing to say about "No Fault" it would be
+"It isn't"
+-- 
+############################...
+
+28. 
+In article <1993Apr14.122758.11467@magnus.acs.ohio-state.edu> jlinder@magnus.acs.ohio-state.edu (Je...
+
+29. 
+netd@susie.sbc.com () writes:
+
+> In article <20APR199301460499@utarlg.uta.edu> b645zaw@utarlg.uta.e...
+
+30. 
+In article <1993Apr14.193739.13359@rtsg.mot.com> svoboda@rtsg.mot.com (David Svoboda) writes:
+>In a...
+
+31. 
+I have an HP 1815 TDR plug-in for an HP180 series scope or mainframe
+that I'm never going to use (n...
+
+32. 
+
+>If all the ecomomists in the world were laid end to end . . .
+
+>Punchline #1: they would all poin...
+
+33. 
+ (U28698@uicvm.uic.edu) wrote:
+: Marian CATHOLIC high school, outside of chicago:
+: 
+: 666 south AS...
+
+34. 
+In article <15149@optilink.COM> cramer@optilink.COM (Clayton Cramer) writes:
+
+>In article <113328@b...
+
+35. 
+In <FRITZM.93Apr20225937@sun.panix.com> fritzm@panix.com (Fritz Mueller) writes:
+>I just moved to N...
+
+36. 
+As the subject says - Can I use a 4052 for digital signals?  I don't see
+why it couldn't handle dig...
+
+37. 
+In <1993Apr20.001428.724@indyvax.iupui.edu> tffreeba@indyvax.iupui.edu writes:
+>Let's play a game -...
+
+38. 
+In article <1993Apr2.204617.14179@mprgate.mpr.ca>, vanderby@mprgate.mpr.ca (David Vanderbyl) writes...
+
+39. 
+In article <C5EJL7.LIn@news2.cis.umn.edu> Mike Diack <mike-d@staff.tc.umn.edu> writes:
+-In article ...
+
+40. Distribution: usa
+NNTP-Posting-Host: tang.ccr-p.ida.org
+In-reply-to: Bob.Waldrop@f418.n104.z1.fidone...
+
+41. 
+In article <1qc5f0$3ad@moe.ksu.ksu.edu> bparker@uafhp..uark.edu (Brian Parker) writes:
+>  Hello wor...
+
+42. 
+In <C5w5zJ.HHq@murdoch.acc.Virginia.EDU> Greg Hennessy writes:
+>In article <1r6aqr$dnv@access.digex...
+
+43. 
+From: Gene Wright <gene@theporch.raider.net>
+
+>With the continuin talk about the "End of the Space ...
+
+44. Nntp-Posting-Host: 128.203.2.156
+Organization: Ungermann-Bass SSE
+
+So, I begin my 6 week sabbatical ...
+
+45. Organization: University of Oulu, Dept. of EE, Finland
+
+In article <LANCER.93Apr15150228@oconnor.WPI...
+
+46. NNTP-Posting-Host: cogsci.berkeley.edu
+
+In article <1993Apr5.094451.8144@aber.ac.uk> azw@aber.ac.uk ...
+
+47. NNTP-Posting-Host: po2.andrew.cmu.edu
+
+
+Hi, someone is selling his bmw R65 ( I think it's an '84 ) w...
+
+48. 
+I saw his bike parked in front of a bar a few weeks later without the
+dog, and I wandered in to fin...
+
+49. Organization: The University of New Brunswick
+
+In article <1qfkqhINN1s7@rodan.UU.NET> smm@rodan.UU.N...
+
+50. 
+g92m3062@alpha.ru.ac.za (Brad Meier) writes:
+
+> Hi, I'm looking for a circuit, that is called a "Ja...
+
+51. 
+In article <5227@unisql.UUCP> ray@unisql.UUCP (Ray Shea) writes:
+>
+>Can someone tell me what a delt...
+
+52. NNTP-Posting-Host: byron.u.washington.edu
+
+
+Any thoughts on who is going to count all of the gorgeou...
+
+53. 
+In article <1993Apr15.193603.14228@magnus.acs.ohio-state.edu> rscharfy@magnus.acs.ohio-state.edu (R...
+
+54. 
+In article <C50uGG.9As@cmptrc.lonestar.org> irwin@cmptrc.lonestar.org (Irwin Arnstein) writes:
+>In ...
+
+55. 
+	In the hopes of adding a little life to, what seems to be, the
+same old debates, I would like to a...
+
+56. 
+In article <9304161803.AA23713@inet-gw-2.pa.dec.com>, blh@uiboise.idbsu.edu (Broward L. Horne)     ...
+
+57. 
+
+Insurance companies sure seem to go for No-Fault coverage.  Since the
+majority of accidents are th...
+
+58. 
+In article <1993Apr18.160449.1@hamp.hampshire.edu> jyaruss@hamp.hampshire.edu writes:
+
+>Is there a ...
+
+59. Nntp-Posting-Host: pc159
+Organization: Ostfold College
+
+Can somebody tell me what all the letter spe...
+
+60. 
+dnewman@lynx.dac.northeastern.edu (David F. Newman) writes:
+
+> Hi there,
+> Can anyone tell me where...
+
+61. 
+From article <C5px3n.Kw0@murdoch.acc.Virginia.EDU>, by cdw2t@dayhoff.med.Virginia.EDU (Dances With ...
+
+62. 
+Does anybody have informations about the
+
+ W 86 C 451   and  W 86 C 456 chips (40pin DIL pckg)?
+
+Th...
+
+63. 
+In article <C5JoBH.7zt@apollo.hp.com>, goykhman@apollo.hp.com (Red Herring) writes...
+>In article <...
+
+64. X-Xxdate: Thu, 15 Apr 93 11:19:09 GMT
+Nntp-Posting-Host: 130.57.72.65
+X-Useragent: Nuntius v1.1.1d12...
+
+65. 
+In article <STEINLY.93Apr21152344@topaz.ucsc.edu> steinly@topaz.ucsc.edu (Steinn Sigurdsson) writes...
+
+66. 
+In article <1993Apr5.160550.7592@mksol.dseg.ti.com> mccall@mksol.dseg.ti.com (fred j mccall 575-353...
+
+67. 
+In article <1993Apr15.163043.12770@pb2esac.uucp> prahren@pb2esac.uucp (Peter Ahrens) writes:
+>In ar...
+
+68. 
+In article <1993Apr15.175829.22411@oracle.us.oracle.com>, mfriedma@us.oracle.com (Michael Friedman)...
+
+69. 
+In article <C5JLq3.2BL@wetware.com>, drieux@wetware.com                               writes...
+>In...
+
+70. 
+In article <4foNhvm00WB4E5hUxB@andrew.cmu.edu> jae+@CMU.EDU writes:
+
+>I'm looking for a sport-cruis...
+
+71. 
+Jeff.Cook@FtCollinsCO.NCR.COM (Jeff Cook) writes:
+
+>In article <C5t05K.DB6@research.canon.oz.au> en...
+
+72. 
+In article <1993Apr15.215912.1807@martha.utcc.utk.edu> PA146008@utkvm1.utk.edu (David Veal) writes:...
+
+73. 
+/ hpcc01:rec.motorcycles / groverc@gold.gvg.tek.com (Grover Cleveland) /  9:07 am  Apr 14, 1993 /
+S...
+
+74. 
+In article <1993Apr6.161107.2235@b30news.b30.ingr.com>, dtmedin@catbyte.b30.ingr.com (Dave Medin) w...
+
+75. 
+
+
+   I've been following discussions about the Delta Clipper program, and I
+have one small question...
+
+76. 
+
+Nick Haines sez;
+>(given that I've heard the Shuttle software rated as Level 5 in
+>maturity, I str...
+
+77. Distribution: world
+NNTP-Posting-Host: csugrad.cs.vt.edu
+
+In article <79615@cup.portal.com> Thyagi@c...
+
+78. 
+In article <1qppef$i5b@usenet.INS.CWRU.Edu> ch981@cleveland.Freenet.Edu (Tony Alicea) writes:
+>
+>  ...
+
+79. 
+In article <C5KMz5.Hy4@newsserver.technet.sg>, ipser@solomon.technet.sg (Ed
+Ipser) wrote:
+> 
+> 
+> T...
+
+80. 
+
+>I understand that the new GPS boxes now have an option
+>known as "differential ready".  Apparentl...
+
+81. 
+   We run "SpaceNews & Views" on our STAREACH BBS, a local
+operation running WWIV software with the...
+
+82. 
+In article <1993Apr15.193938.8569@research.nj.nec.com>, behanna@syl.nj.nec.com (Chris BeHanna) writ...
+
+83. 
+In article <C5JpL7.5Cz@dscomsa.desy.de>, hallam@zeus02.desy.de                            writes......
+
+84. 
+In article <cantrell.735330560@sauron.msfc.nasa.gov> cantrell@sauron.msfc.nasa.gov (Eric Cantrell) ...
+
+85. 
+[questions and issues WRT congress raised and discussed}
+
+Dennis Replies;
+>Now black when it is whi...
+
+86. 
+
+	Tonigth a TV journal here in Brasil announced that an object,
+beyond Pluto's orbit, was found by ...
+
+87. 
+In article <1993Apr5.151323.7183@rd.hydro.on.ca> jlevine@rd.hydro.on.ca writes:
+
+>In article <C4wKF...
+
+88. Distribution: world
+NNTP-Posting-Host: macadam.mpce.mq.edu.au
+
+In article <1993Apr20.071549.24839@cs...
+
+89. 
+/ hpcc01:rec.motorcycles / Stafford@Vax2.Winona.MSUS.Edu (John Stafford) / 11:06 am  Apr  1, 1993 /...
+
+90. 
+dietz@cs.rochester.edu (Paul Dietz) writes:
+
+> Which merely evades the issue of why those lunatics ...
+
+91. 
+Thyagi@cup.portal.com (Thyagi Morgoth NagaSiva) writes:
+
+> "This organization is known at the prese...
+
+92. 
+In article <1993Apr15.065731.23557@cs.cornell.edu> karr@cs.cornell.edu (David Karr) writes:
+
+     [...
+
+93. 
+In article <1993Apr2.182402.28700@walter.bellcore.com>, deaddio@ski.bellcore.com (Michael DeAddio) ...
+
+94. 
+In article <1993Apr21.170817.15845@sq.sq.com> msb@sq.sq.com (Mark Brader) writes:
+>
+>> > > Also, pe...
+
+95. 
+In article <C5rp8K.Kw2@acsu.buffalo.edu> psyrobtw@ubvmsb.cc.buffalo.edu (Robert Weiss) writes:
+>Gor...
+
+96. 
+Folks,
+
+I am assembling info for a Film Criticism class final project.
+
+Essentially I need any/all ...
+
+97. 
+Dave Martindale (dave@imax.imax.com) wrote:
+: They require two separate grounds.  One ground goes t...
+
+98. Nntp-Posting-Host: hertz.njit.edu
+
+In article <1r1i41$4t@transfer.stratus.com> cdt@sw.stratus.com (C...
+
+99. 
+donrm@sr.hp.com (Don Montgomery) writes:
+
+
+>Radio Shack has canceled their "Battery of the Month" C...
+
+100. 
+In <1q77ku$av6@access.digex.net> Pat writes:
+>The Work is privately funded,  the DATA belongs to SB...
+
+101. 
+I'm selling the following items...
+
+	- a pair of hard saddle bags 
+	- easy installation 
+	- snap re...
+
+102. 
+In article <1qgbljINNn4o@life.ai.mit.edu>, Clinton-HQ@Campaign92.Org (Clinton/Gore '92) writes:
+> 
+...
+
+103. Distribution: world
+NNTP-Posting-Host: macadam.mpce.mq.edu.au
+
+
+|>   What the world needs is a meter...
+
+104. 
+In article <1qppr5INNaqa@dns1.NMSU.Edu> mcole@spock (COLE) writes:
+>I would like to experiment with...
+
+105. NNTP-Posting-Host: access.digex.net
+
+In article <1993Apr16.014506.27923@sol.UVic.CA> rborden@ugly.UV...
+
+
+=== CLUSTER 4 SAMPLE TEXTS ===
+
+1. 
+There is or was a microwave tower next to Florida's Turnpike, and you
+could watch the cars hit the ...
+
+2. NNTP-Posting-Host: joesbar.cc.vt.edu
+X-Newsreader: TIN [version 1.1 PL9]
+
+Kent D. Polk (kent@swrinde...
+
+3. X-Newsreader: TIN [version 1.1.4 PL6]
+
+william burchill (williamb@ee.ubc.ca) wrote:
+: 	Does anybody ...
+
+4. NNTP-Posting-Host: joesbar.cc.vt.edu
+X-Newsreader: TIN [version 1.1 PL9]
+
+exb0405@csdvax.csd.unsw.ed...
+
+5. 
+In article <1qknu0INNbhv@shelley.u.washington.edu> sieferme@stein.u.washington.edu (Eric Sieferman)...
+
+6. NNTP-Posting-Host: joesbar.cc.vt.edu
+X-Newsreader: TIN [version 1.1 PL9]
+
+Sanjay Sinha (sanjay@kin.l...
+
+7. NNTP-Posting-Host: e40-008-5.mit.edu
+
+
+
+
+New England Area Major Flea Market    ***  DATES  ***      ...
+
+8. 
+
+ON the subject of how many competing RC orders there are, let me point out the
+Golden Dawn is only...
+
+9. 
+I am looking at buying a low cost (< $500) scope for general purpose use.
+Any recommendations? Is t...
+
+10. 
+JACK ROGERS WATERS (jrwaters@eos.ncsu.edu) wrote:
+: In article <1ppejb$3h0@vtserf.cc.vt.edu> ranck@...
+
+11. 
+ch981@cleveland.Freenet.Edu (Tony Alicea) writes:
+
+
+>In a previous article, ba@mrcnext.cso.uiuc.edu...
+
+12. 
+In article <93093.073457RIPBC@CUNYVM.BITNET> RIPBC@CUNYVM.BITNET writes:
+>From: cramer@optilink.COM...
+
+13. X-Newsreader: TIN [version 1.1 PL8]
+
+: >I want to upgrade my system and was thinking of buying Adcom...
+
+14. 
+
+	There are actually a few important things we can glean from this mess:
+1)	When they start getting...
+
+15. 
+
+After reading the service manual for my bike (Suzuki GS500E--1990) I have
+a couple of questions I ...
+
+16. 
+The European Space Agency has involvement with remote earth 
+observation, and I presume this includ...
+
+17. 
+
+	There are actually a few important things we can glean from this mess:
+1)	When they start getting...
+
+18. NNTP-Posting-Host: mackerel.gu.uwa.edu.au
+
+hjkim@hyowon.pusan.ac.kr (Hojoong Kim) writes:
+
+>Hi Nette...
+
+19. 
+In article <C5sLAs.B68@blaze.cs.jhu.edu> arromdee@jyusenkyou.cs.jhu.edu (Ken Arromdee) writes:
+>In ...
+
+20. 
+Bill Ranck writes:
+
+>As a new BMW owner I was thinking about signing up for the MOA, but
+>right now...
+
+21. 
+Aaron Lung (alung@megatest.com) wrote:
+: >I was also sceptical about the amps being built in the fa...
+

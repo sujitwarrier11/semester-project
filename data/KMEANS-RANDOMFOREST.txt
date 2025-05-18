@@ -1,0 +1,38 @@
+Text data contains 1500 documents with 412622 total words
+Average word count per document: 275.1
+Minimum word count: 1, Maximum word count: 7940
+
+Training using texts...
+
+Creating text embeddings...
+100%|██████████| 1500/1500 [00:00<00:00, 1954.96it/s]
+Clustering text...
+KMEANS Clustering completed on training texts
+Cluster 0: 403 texts
+Cluster 1: 342 texts
+Cluster 2: 630 texts
+Cluster 3: 104 texts
+Cluster 4: 21 texts
+Silhouette Score: 0.2230
+cluster_labels: [2 2 0 ... 1 1 0]
+KMEANS Clustering completed on training texts
+Cluster 0: 403 texts
+Cluster 1: 342 texts
+Cluster 2: 630 texts
+Cluster 3: 104 texts
+Cluster 4: 21 texts
+Cluster information written to /content/sample_data/cluster_results.txt
+Training RandomForest text classifier...
+RandomForest Text Classifier - Train accuracy: 1.0000, Validation accuracy: 0.9633
+Training complete!
+
+Loading new unseen testing data...
+Creating embeddings for 93617 testing texts...
+100%|██████████| 93617/93617 [00:02<00:00, 35506.94it/s]
+Predictions completed for 93617 testing texts
+Cluster 0: 7628 texts
+Cluster 1: 84759 texts
+Cluster 2: 1067 texts
+Cluster 3: 157 texts
+Cluster 4: 6 texts
+Results Predicted

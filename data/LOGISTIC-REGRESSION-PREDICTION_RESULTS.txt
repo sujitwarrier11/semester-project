@@ -1,0 +1,502 @@
+PREDICTION RESULTS
+
+--- Result #1 ---
+Text: Distribution: world
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #2 ---
+Text: Message-ID: <MARC.93Apr17211937@oliver.mit.edu>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #3 ---
+Text: NNTP-Posting-Host: oliver.mit.edu
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #4 ---
+Text: The message from the NIST about the clipper chip comes from the...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #5 ---
+Text: following address:
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #6 ---
+Text: clipper@csrc.ncsl.nist.gov (Clipper Chip Announcement)...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #7 ---
+Text: Just who is that, I asked myself, or rather, I asked the computer....
+Predicted Cluster: 1
+Confidence: 0.9985
+
+--- Result #8 ---
+Text: % telnet csrc.ncsl.nist.gov 25
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #9 ---
+Text: Trying...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #10 ---
+Text: Connected to csrc.ncsl.nist.gov.
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #11 ---
+Text: Escape character is '^]'.
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #12 ---
+Text: 220 first.org sendmail 4.1/NIST ready at Sat, 17 Apr 93 20:42:56 EDT...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #13 ---
+Text: expn clipper
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #14 ---
+Text: 250-<csspab@mail-gw.ncsl.nist.gov>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #15 ---
+Text: 250-<denning@cs.georgetown.edu>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #16 ---
+Text: 250-<hoffman@seas.gwu.edu>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #17 ---
+Text: 250-<mkapor@eff.org>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #18 ---
+Text: 250-<rotenberg@cpsr.org>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #19 ---
+Text: 250-<rivest@mit.edu>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #20 ---
+Text: 250-<mhellman@stanford.edu>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #21 ---
+Text: 250-<alanrp@aol.com>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #22 ---
+Text: 250-<dparker@sri.com>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #23 ---
+Text: 250-<jim@rsa.com>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #24 ---
+Text: 250-<branstad@tis.com>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #25 ---
+Text: 250 <mgrsplus@csmes.ncsl.nist.gov>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #26 ---
+Text: quit
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #27 ---
+Text: 221 first.org closing connection
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #28 ---
+Text: Connection closed.
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #29 ---
+Text: Well, isn't that interesting.  Dorothy Denning, Mitch Kapor, Marc...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #30 ---
+Text: Rotenberg, Ron Rivest, Jim Bidzos, and others.  The Government, RSA,...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #31 ---
+Text: TIS, CPSR, and the EFF are all represented.  I don't suppose anybody...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #32 ---
+Text: within any of these organizations would care to comment?  Or is this...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #33 ---
+Text: just the White House's idea of a cruel joke on these peoples' inboxes?...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #34 ---
+Text: Marc
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #35 ---
+Text: --
+Predicted Cluster: 2
+Confidence: 1.0000
+
+--- Result #36 ---
+Text: Marc Horowitz N1NZU <marc@mit.edu>				617-253-7788
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #37 ---
+Text: Message-ID: <1qqb8sINN8kj@gap.caltech.edu>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #38 ---
+Text: NNTP-Posting-Host: vex.ugcs.caltech.edu
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #39 ---
+Text: In light of my recent paranoia concerning government proposals, I'd love to...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #40 ---
+Text: see a UNIX-based encryption scheme that:
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #41 ---
+Text: 1) Kept some files encrypted on the host machine (say, all the files in your...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #42 ---
+Text: home directory)
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #43 ---
+Text: 2) Used a key system that could not be compromised by eavesdropping over a...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #44 ---
+Text: modem line.
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #45 ---
+Text: It seems that this would require modifications to a shell program and a...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #46 ---
+Text: way of telling whether a file was encrypted or not, among other things....
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #47 ---
+Text: I'd love to know about potential security holes in such a system....
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #48 ---
+Text: Does such a system exist?  If it were made easy-to-use and readily...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #49 ---
+Text: available, I think it would be a Good Thing(tm).  I realize that this...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #50 ---
+Text: would probably just involve putting a nice front-end on a readily available...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #51 ---
+Text: and very secure encryption scheme, but it should be done....
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #52 ---
+Text: Thanks for the ear,
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #53 ---
+Text: Brad
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #54 ---
+Text: brad@clarinet.com (Brad Templeton):
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #55 ---
+Text: }And yes, this has to be a public key system or it would be almost...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #56 ---
+Text: }impossible to handle.  It might not be RSA, but that does not mean...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #57 ---
+Text: }that PKP doesn't get paid.  Until 1997, PKP has the patent on the...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #58 ---
+Text: }general concept of public key encryption, as well as the particular...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #59 ---
+Text: }implementation known as RSA.
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #60 ---
+Text: Hmm, my first thought was that they're using Diffie-Hellman exponential...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #61 ---
+Text: session key exchange, or an equivalent.  However, the Diffie-Hellman...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #62 ---
+Text: patent, like the Hellman-Merkle one on public key systems, claims...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #63 ---
+Text: all equivalents, so the basic point stands.
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #64 ---
+Text: Interestingly, a quote from Jim Bidzos showed up in the media real...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #65 ---
+Text: soon after the announcement, and he sounded very pissed.  Maybe he hadn't...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #66 ---
+Text: yet realized that PKP might have just struck gold?  All they have to...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #67 ---
+Text: do is get someone to admit the general scheme that the Clipper uses....
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #68 ---
+Text: ---
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #69 ---
+Text: Jef
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #70 ---
+Text: Jef Poskanzer  jef@netcom.com  jef@well.sf.ca.us
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #71 ---
+Text: "An object never serves the same function as its image - or its name."...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #72 ---
+Text: -- Rene Magritte
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #73 ---
+Text: In article <1qpg8fINN982@dns1.NMSU.Edu> amolitor@nmsu.edu...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #74 ---
+Text: (Andrew Molitor) writes:
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #75 ---
+Text: >In article <tcmayC5M2xv.JEx@netcom.com>
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #76 ---
+Text: >tcmay@netcom.com (Timothy C. May) writes:
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #77 ---
+Text: >
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #78 ---
+Text: >>-Tim May, whose sig block may get him busted in the New Regime...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #79 ---
+Text: >                           ^^^^^^^^^^^^^^^^^^
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #80 ---
+Text: >Isn't this just a little melodramatic?
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #81 ---
+Text: Not at all. Two weeks ago I registered a concern about some programming...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #82 ---
+Text: that was being conducted by a student organisation here at the...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #83 ---
+Text: University of Texas at San Antonio.  As a result, I was interrogated...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #84 ---
+Text: by the capus police, who also attempted to create a positive-identification...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #85 ---
+Text: file (photo, fingerprints, etc.). I refused to permit this, and filed a...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #86 ---
+Text: complaint with the University administration.  The Vice-President for...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #87 ---
+Text: Business Affairs (the 'boss' of the campus police) stated that he had no...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #88 ---
+Text: interest in the legal/Constitutional implications of those actions....
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #89 ---
+Text: --
+Predicted Cluster: 2
+Confidence: 1.0000
+
+--- Result #90 ---
+Text: The greatest threat facing the citizens of the United States in the decade of...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #91 ---
+Text: the 90s is the United States Government; at all levels -- Federal, State, Local...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #92 ---
+Text: [All opinions are mine, and I reserve the right to deny them at any time - WWH]...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #93 ---
+Text: In article <1993Apr17.122651.1874@sugra.uucp> ken@sugra.uucp (Kenneth Ng) writes:...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #94 ---
+Text: >In article <1993Apr16.165423.27204@linus.mitre.org: ptrei@bistromath.mitre.org (Peter Trei) writes:...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #95 ---
+Text: >:Judge: "I grant you immunity from whatever may be learned from the key...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #96 ---
+Text: >:	itself"
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #97 ---
+Text: >:You:    "The keyphrase is: "I confess to deliberately evading copyright;...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #98 ---
+Text: >:	the file encoded with this keyphrase contains illegal scans of...
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #99 ---
+Text: >:        copyrighted Peanuts strips.""
+Predicted Cluster: 1
+Confidence: 1.0000
+
+--- Result #100 ---
+Text: >:Judge and CP: "Oh."
+Predicted Cluster: 1
+Confidence: 1.0000
+
